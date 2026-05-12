@@ -1,0 +1,1044 @@
+{"timestamp": "2026-05-12T01:21:33.750276", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 5252, "ip_address": "199.230.218.152"}
+{"timestamp": "2026-05-12T01:21:35.755138", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 2728, "ip_address": "67.86.83.114"}
+{"timestamp": "2026-05-12T01:21:37.760179", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9083, "ip_address": "208.72.0.173"}
+{"timestamp": "2026-05-12T01:21:39.762904", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7348, "ip_address": "122.162.2.49"}
+{"timestamp": "2026-05-12T01:21:41.765290", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 7286, "ip_address": "206.218.152.149"}
+{"timestamp": "2026-05-12T01:21:43.767085", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9381, "ip_address": "95.18.145.56"}
+{"timestamp": "2026-05-12T01:21:45.768051", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3684, "ip_address": "159.178.160.247"}
+{"timestamp": "2026-05-12T01:21:47.770060", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 2633, "ip_address": "94.117.59.100"}
+{"timestamp": "2026-05-12T01:21:49.772475", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 7711, "ip_address": "31.183.175.250"}
+{"timestamp": "2026-05-12T01:21:51.773809", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 7160, "ip_address": "142.88.104.66"}
+{"timestamp": "2026-05-12T01:21:53.776637", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2712, "ip_address": "117.213.209.63"}
+{"timestamp": "2026-05-12T01:21:55.778665", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8383, "ip_address": "216.171.13.182"}
+{"timestamp": "2026-05-12T01:21:57.781770", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 3920, "ip_address": "148.237.210.31"}
+{"timestamp": "2026-05-12T01:21:59.784865", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 5338, "ip_address": "199.1.69.165"}
+{"timestamp": "2026-05-12T01:22:01.787714", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 9117, "ip_address": "97.200.87.161"}
+{"timestamp": "2026-05-12T01:22:03.791963", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9830, "ip_address": "13.202.113.75"}
+{"timestamp": "2026-05-12T01:22:05.796084", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 6482, "ip_address": "170.179.74.184"}
+{"timestamp": "2026-05-12T01:22:07.798488", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 7830, "ip_address": "184.46.72.254"}
+{"timestamp": "2026-05-12T01:22:09.800121", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8359, "ip_address": "52.196.30.117"}
+{"timestamp": "2026-05-12T01:22:11.802933", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5669, "ip_address": "207.239.57.142"}
+{"timestamp": "2026-05-12T01:22:13.805527", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1395, "ip_address": "163.189.27.28"}
+{"timestamp": "2026-05-12T01:22:15.808697", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 2234, "ip_address": "81.194.49.98"}
+{"timestamp": "2026-05-12T01:22:17.811752", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6625, "ip_address": "62.58.156.30"}
+{"timestamp": "2026-05-12T01:22:19.815820", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3403, "ip_address": "10.209.162.131"}
+{"timestamp": "2026-05-12T01:22:21.817736", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7781, "ip_address": "153.96.162.203"}
+{"timestamp": "2026-05-12T01:22:23.821328", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6673, "ip_address": "149.104.237.91"}
+{"timestamp": "2026-05-12T01:22:25.824687", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7518, "ip_address": "115.234.8.79"}
+{"timestamp": "2026-05-12T01:22:27.827161", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1049, "ip_address": "174.58.249.147"}
+{"timestamp": "2026-05-12T01:22:29.831439", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7125, "ip_address": "5.20.95.48"}
+{"timestamp": "2026-05-12T01:22:31.833664", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3827, "ip_address": "88.253.164.82"}
+{"timestamp": "2026-05-12T01:22:33.839256", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6181, "ip_address": "221.152.58.34"}
+{"timestamp": "2026-05-12T01:22:35.841790", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9282, "ip_address": "1.226.174.4"}
+{"timestamp": "2026-05-12T01:22:37.843835", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4526, "ip_address": "176.216.143.7"}
+{"timestamp": "2026-05-12T01:22:39.846849", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5744, "ip_address": "43.108.23.22"}
+{"timestamp": "2026-05-12T01:22:41.851055", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3676, "ip_address": "76.185.32.36"}
+{"timestamp": "2026-05-12T01:22:43.853719", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 8666, "ip_address": "90.17.24.193"}
+{"timestamp": "2026-05-12T01:22:45.854921", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 8897, "ip_address": "133.245.235.246"}
+{"timestamp": "2026-05-12T01:22:47.857607", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 6405, "ip_address": "179.93.255.225"}
+{"timestamp": "2026-05-12T01:22:49.860282", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7101, "ip_address": "175.216.254.146"}
+{"timestamp": "2026-05-12T01:22:51.861717", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8346, "ip_address": "208.237.95.110"}
+{"timestamp": "2026-05-12T01:22:53.864873", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 5229, "ip_address": "69.170.229.50"}
+{"timestamp": "2026-05-12T01:22:55.867506", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8692, "ip_address": "181.13.105.98"}
+{"timestamp": "2026-05-12T01:22:57.870374", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4483, "ip_address": "120.237.1.80"}
+{"timestamp": "2026-05-12T01:22:59.873396", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7925, "ip_address": "139.8.216.66"}
+{"timestamp": "2026-05-12T01:23:01.876950", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9207, "ip_address": "12.139.103.28"}
+{"timestamp": "2026-05-12T01:23:03.878606", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9758, "ip_address": "126.145.97.180"}
+{"timestamp": "2026-05-12T01:23:05.882264", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6220, "ip_address": "22.39.95.233"}
+{"timestamp": "2026-05-12T01:23:07.885499", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6520, "ip_address": "200.230.145.54"}
+{"timestamp": "2026-05-12T01:23:09.888485", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8055, "ip_address": "102.52.10.183"}
+{"timestamp": "2026-05-12T01:23:11.891479", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9151, "ip_address": "149.231.238.216"}
+{"timestamp": "2026-05-12T01:23:13.894345", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2462, "ip_address": "196.239.24.42"}
+{"timestamp": "2026-05-12T01:23:15.898778", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 5752, "ip_address": "49.249.35.135"}
+{"timestamp": "2026-05-12T01:23:17.902190", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6022, "ip_address": "41.18.97.106"}
+{"timestamp": "2026-05-12T01:23:19.905795", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9071, "ip_address": "106.169.25.64"}
+{"timestamp": "2026-05-12T01:23:21.907778", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5239, "ip_address": "90.99.155.8"}
+{"timestamp": "2026-05-12T01:23:23.909879", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9241, "ip_address": "32.245.212.95"}
+{"timestamp": "2026-05-12T01:23:25.913234", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9169, "ip_address": "146.239.240.28"}
+{"timestamp": "2026-05-12T01:23:27.916816", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7696, "ip_address": "39.162.40.100"}
+{"timestamp": "2026-05-12T01:23:29.919788", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9798, "ip_address": "173.35.233.161"}
+{"timestamp": "2026-05-12T01:23:31.923178", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 4966, "ip_address": "50.17.128.65"}
+{"timestamp": "2026-05-12T01:23:33.926611", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 2536, "ip_address": "61.66.17.6"}
+{"timestamp": "2026-05-12T01:23:35.929808", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 1439, "ip_address": "113.134.154.31"}
+{"timestamp": "2026-05-12T01:23:37.933774", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2902, "ip_address": "13.63.106.232"}
+{"timestamp": "2026-05-12T01:23:39.936536", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5797, "ip_address": "26.73.168.154"}
+{"timestamp": "2026-05-12T01:23:41.938712", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1644, "ip_address": "88.162.4.35"}
+{"timestamp": "2026-05-12T01:23:43.940965", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9049, "ip_address": "168.69.227.116"}
+{"timestamp": "2026-05-12T01:23:45.943372", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9901, "ip_address": "68.100.72.101"}
+{"timestamp": "2026-05-12T01:23:47.947549", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 9060, "ip_address": "50.225.146.161"}
+{"timestamp": "2026-05-12T01:23:49.949716", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4957, "ip_address": "79.151.117.104"}
+{"timestamp": "2026-05-12T01:23:51.953020", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4030, "ip_address": "79.130.76.237"}
+{"timestamp": "2026-05-12T01:23:53.955566", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4064, "ip_address": "77.254.0.188"}
+{"timestamp": "2026-05-12T01:23:55.957419", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2727, "ip_address": "12.234.16.140"}
+{"timestamp": "2026-05-12T01:23:57.961274", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 7558, "ip_address": "47.199.150.162"}
+{"timestamp": "2026-05-12T01:23:59.964622", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 5812, "ip_address": "110.217.117.91"}
+{"timestamp": "2026-05-12T01:24:01.966674", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9549, "ip_address": "179.102.7.169"}
+{"timestamp": "2026-05-12T01:24:03.968880", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 1259, "ip_address": "165.161.82.130"}
+{"timestamp": "2026-05-12T01:24:05.970958", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 7945, "ip_address": "190.179.101.230"}
+{"timestamp": "2026-05-12T01:24:07.973072", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 5893, "ip_address": "107.50.236.203"}
+{"timestamp": "2026-05-12T01:24:09.976565", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7533, "ip_address": "146.0.97.113"}
+{"timestamp": "2026-05-12T01:24:11.979328", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8786, "ip_address": "184.146.235.119"}
+{"timestamp": "2026-05-12T01:24:13.982442", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 7967, "ip_address": "16.90.32.155"}
+{"timestamp": "2026-05-12T01:24:15.985100", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2900, "ip_address": "20.250.33.46"}
+{"timestamp": "2026-05-12T01:24:17.987788", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6029, "ip_address": "59.108.30.7"}
+{"timestamp": "2026-05-12T01:24:19.990887", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6229, "ip_address": "63.39.233.113"}
+{"timestamp": "2026-05-12T01:24:21.993144", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8245, "ip_address": "86.184.183.32"}
+{"timestamp": "2026-05-12T01:24:23.995984", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9347, "ip_address": "175.51.210.40"}
+{"timestamp": "2026-05-12T01:24:26.000074", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8471, "ip_address": "116.5.81.20"}
+{"timestamp": "2026-05-12T01:24:28.002877", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 8162, "ip_address": "82.198.135.29"}
+{"timestamp": "2026-05-12T01:24:30.005043", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 4493, "ip_address": "157.3.13.236"}
+{"timestamp": "2026-05-12T01:24:32.008671", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 9937, "ip_address": "180.49.168.13"}
+{"timestamp": "2026-05-12T01:24:34.011875", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4848, "ip_address": "144.112.135.248"}
+{"timestamp": "2026-05-12T01:24:36.016439", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 7643, "ip_address": "123.188.207.168"}
+{"timestamp": "2026-05-12T01:24:38.019216", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 6697, "ip_address": "73.81.45.218"}
+{"timestamp": "2026-05-12T01:24:40.022158", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5007, "ip_address": "27.148.155.98"}
+{"timestamp": "2026-05-12T01:24:42.026539", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8291, "ip_address": "29.207.187.70"}
+{"timestamp": "2026-05-12T01:24:44.029226", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9734, "ip_address": "197.60.204.150"}
+{"timestamp": "2026-05-12T01:24:46.031804", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6405, "ip_address": "51.170.14.234"}
+{"timestamp": "2026-05-12T01:24:48.034285", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 3157, "ip_address": "142.31.76.58"}
+{"timestamp": "2026-05-12T01:24:50.036700", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1757, "ip_address": "215.184.92.244"}
+{"timestamp": "2026-05-12T01:24:52.040263", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 3981, "ip_address": "84.82.173.111"}
+{"timestamp": "2026-05-12T01:24:54.043275", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9989, "ip_address": "23.140.254.183"}
+{"timestamp": "2026-05-12T01:24:56.046470", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 2591, "ip_address": "29.223.173.133"}
+{"timestamp": "2026-05-12T01:24:58.051149", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 3247, "ip_address": "163.64.163.73"}
+{"timestamp": "2026-05-12T01:25:00.053531", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 7692, "ip_address": "190.209.111.158"}
+{"timestamp": "2026-05-12T01:25:02.057251", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2263, "ip_address": "137.93.253.81"}
+{"timestamp": "2026-05-12T01:25:04.059990", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5214, "ip_address": "222.197.121.111"}
+{"timestamp": "2026-05-12T01:25:06.062625", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8519, "ip_address": "158.107.22.88"}
+{"timestamp": "2026-05-12T01:25:08.065790", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 2644, "ip_address": "103.216.142.198"}
+{"timestamp": "2026-05-12T01:25:10.069306", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 1841, "ip_address": "213.66.222.77"}
+{"timestamp": "2026-05-12T01:25:12.071854", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 8670, "ip_address": "64.100.117.213"}
+{"timestamp": "2026-05-12T01:25:14.074374", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4558, "ip_address": "25.136.174.194"}
+{"timestamp": "2026-05-12T01:25:16.076916", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5233, "ip_address": "167.117.100.255"}
+{"timestamp": "2026-05-12T01:25:18.081002", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 4820, "ip_address": "140.167.80.57"}
+{"timestamp": "2026-05-12T01:25:20.085460", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3959, "ip_address": "159.55.149.61"}
+{"timestamp": "2026-05-12T01:25:22.087603", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4486, "ip_address": "208.234.194.165"}
+{"timestamp": "2026-05-12T01:25:24.092154", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9199, "ip_address": "222.55.235.247"}
+{"timestamp": "2026-05-12T01:25:26.095190", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3823, "ip_address": "142.5.229.151"}
+{"timestamp": "2026-05-12T01:25:28.100352", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2086, "ip_address": "101.195.144.65"}
+{"timestamp": "2026-05-12T01:25:30.103982", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5206, "ip_address": "101.57.1.106"}
+{"timestamp": "2026-05-12T01:25:32.107406", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7576, "ip_address": "94.24.148.170"}
+{"timestamp": "2026-05-12T01:25:34.110177", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6503, "ip_address": "75.184.11.63"}
+{"timestamp": "2026-05-12T01:25:36.113408", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5455, "ip_address": "34.215.15.80"}
+{"timestamp": "2026-05-12T01:25:38.116073", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 2464, "ip_address": "213.178.85.54"}
+{"timestamp": "2026-05-12T01:25:40.119102", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2605, "ip_address": "112.235.134.64"}
+{"timestamp": "2026-05-12T01:25:42.122209", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3235, "ip_address": "177.243.54.115"}
+{"timestamp": "2026-05-12T01:25:44.126147", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9201, "ip_address": "162.3.189.175"}
+{"timestamp": "2026-05-12T01:25:46.128598", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 3456, "ip_address": "198.114.3.67"}
+{"timestamp": "2026-05-12T01:25:48.132890", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3808, "ip_address": "122.122.220.124"}
+{"timestamp": "2026-05-12T01:25:50.135778", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 9952, "ip_address": "146.145.121.238"}
+{"timestamp": "2026-05-12T01:25:52.138938", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 8864, "ip_address": "6.65.21.52"}
+{"timestamp": "2026-05-12T01:25:54.142021", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8879, "ip_address": "119.150.26.195"}
+{"timestamp": "2026-05-12T01:25:56.144507", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5873, "ip_address": "72.222.104.17"}
+{"timestamp": "2026-05-12T01:25:58.148254", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5454, "ip_address": "46.15.140.93"}
+{"timestamp": "2026-05-12T01:26:00.151644", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8391, "ip_address": "164.236.13.53"}
+{"timestamp": "2026-05-12T01:26:02.155227", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2972, "ip_address": "126.116.210.56"}
+{"timestamp": "2026-05-12T01:26:04.157775", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1044, "ip_address": "96.203.83.3"}
+{"timestamp": "2026-05-12T01:26:06.161273", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8570, "ip_address": "49.46.216.21"}
+{"timestamp": "2026-05-12T01:26:08.165585", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9544, "ip_address": "164.227.5.140"}
+{"timestamp": "2026-05-12T01:26:10.170500", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6812, "ip_address": "214.237.168.229"}
+{"timestamp": "2026-05-12T01:26:12.174032", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 1997, "ip_address": "205.143.202.180"}
+{"timestamp": "2026-05-12T01:26:14.176463", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4303, "ip_address": "38.12.231.61"}
+{"timestamp": "2026-05-12T01:26:16.180662", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 9102, "ip_address": "121.185.151.103"}
+{"timestamp": "2026-05-12T01:26:18.181838", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 8937, "ip_address": "62.215.133.5"}
+{"timestamp": "2026-05-12T01:26:20.184807", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 4421, "ip_address": "130.239.24.160"}
+{"timestamp": "2026-05-12T01:26:22.188647", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3020, "ip_address": "91.162.69.25"}
+{"timestamp": "2026-05-12T01:26:24.192000", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6806, "ip_address": "75.119.183.185"}
+{"timestamp": "2026-05-12T01:26:26.194488", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 8165, "ip_address": "181.243.5.66"}
+{"timestamp": "2026-05-12T01:26:28.198104", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4062, "ip_address": "215.68.81.217"}
+{"timestamp": "2026-05-12T01:26:30.204922", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1404, "ip_address": "58.41.155.86"}
+{"timestamp": "2026-05-12T01:26:32.207761", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5565, "ip_address": "76.76.212.246"}
+{"timestamp": "2026-05-12T01:26:34.211786", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 4654, "ip_address": "75.20.244.30"}
+{"timestamp": "2026-05-12T01:26:36.214734", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4434, "ip_address": "62.53.63.11"}
+{"timestamp": "2026-05-12T01:26:38.218034", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9835, "ip_address": "3.250.216.194"}
+{"timestamp": "2026-05-12T01:26:40.220532", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 7477, "ip_address": "102.233.226.242"}
+{"timestamp": "2026-05-12T01:26:42.224877", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 4436, "ip_address": "37.211.9.227"}
+{"timestamp": "2026-05-12T01:26:44.227702", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 9221, "ip_address": "126.13.64.241"}
+{"timestamp": "2026-05-12T01:26:46.231744", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2519, "ip_address": "123.247.131.198"}
+{"timestamp": "2026-05-12T01:26:48.234816", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2733, "ip_address": "71.153.203.131"}
+{"timestamp": "2026-05-12T01:26:50.236301", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3450, "ip_address": "141.12.90.187"}
+{"timestamp": "2026-05-12T01:26:52.239512", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3874, "ip_address": "135.60.212.203"}
+{"timestamp": "2026-05-12T01:26:54.241134", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9173, "ip_address": "62.52.186.178"}
+{"timestamp": "2026-05-12T01:26:56.243080", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8985, "ip_address": "16.14.234.228"}
+{"timestamp": "2026-05-12T01:26:58.245512", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 2086, "ip_address": "150.7.88.224"}
+{"timestamp": "2026-05-12T01:27:00.248443", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 1228, "ip_address": "26.151.12.60"}
+{"timestamp": "2026-05-12T01:27:02.250886", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9729, "ip_address": "172.95.96.205"}
+{"timestamp": "2026-05-12T01:27:04.254269", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1843, "ip_address": "107.125.248.84"}
+{"timestamp": "2026-05-12T01:27:06.256990", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9201, "ip_address": "120.16.236.187"}
+{"timestamp": "2026-05-12T01:27:08.260448", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 2411, "ip_address": "181.83.74.187"}
+{"timestamp": "2026-05-12T01:27:10.263718", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5674, "ip_address": "89.245.227.147"}
+{"timestamp": "2026-05-12T01:27:12.265941", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1741, "ip_address": "43.230.73.13"}
+{"timestamp": "2026-05-12T01:27:14.268315", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 2762, "ip_address": "46.135.39.189"}
+{"timestamp": "2026-05-12T01:27:16.270937", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7449, "ip_address": "168.31.109.55"}
+{"timestamp": "2026-05-12T01:27:18.272602", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 3194, "ip_address": "67.146.97.36"}
+{"timestamp": "2026-05-12T01:27:20.274774", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6023, "ip_address": "98.215.210.199"}
+{"timestamp": "2026-05-12T01:27:22.278054", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 4473, "ip_address": "24.35.38.71"}
+{"timestamp": "2026-05-12T01:27:24.281437", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8251, "ip_address": "55.110.213.154"}
+{"timestamp": "2026-05-12T01:27:26.283819", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4221, "ip_address": "178.241.84.124"}
+{"timestamp": "2026-05-12T01:27:28.286657", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 6442, "ip_address": "77.97.235.159"}
+{"timestamp": "2026-05-12T01:27:30.288552", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 1207, "ip_address": "215.54.75.62"}
+{"timestamp": "2026-05-12T01:27:32.291982", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8512, "ip_address": "81.97.61.236"}
+{"timestamp": "2026-05-12T01:27:34.294032", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6776, "ip_address": "113.113.135.103"}
+{"timestamp": "2026-05-12T01:27:36.296961", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 7648, "ip_address": "87.173.123.241"}
+{"timestamp": "2026-05-12T01:27:38.300825", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8168, "ip_address": "172.244.163.144"}
+{"timestamp": "2026-05-12T01:27:40.303619", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2675, "ip_address": "131.222.236.122"}
+{"timestamp": "2026-05-12T01:27:42.306789", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4020, "ip_address": "211.123.231.58"}
+{"timestamp": "2026-05-12T01:27:44.310113", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 7730, "ip_address": "196.87.100.161"}
+{"timestamp": "2026-05-12T01:27:46.313353", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3008, "ip_address": "160.149.201.7"}
+{"timestamp": "2026-05-12T01:27:48.318056", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8018, "ip_address": "210.226.0.24"}
+{"timestamp": "2026-05-12T01:27:50.320227", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2376, "ip_address": "196.206.109.99"}
+{"timestamp": "2026-05-12T01:27:52.322680", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 3760, "ip_address": "138.85.60.135"}
+{"timestamp": "2026-05-12T01:27:54.325472", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9540, "ip_address": "36.138.219.207"}
+{"timestamp": "2026-05-12T01:27:56.328920", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 1616, "ip_address": "63.244.142.205"}
+{"timestamp": "2026-05-12T01:27:58.331463", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3414, "ip_address": "76.163.87.98"}
+{"timestamp": "2026-05-12T01:28:00.334848", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 4845, "ip_address": "162.194.85.101"}
+{"timestamp": "2026-05-12T01:28:02.338145", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6954, "ip_address": "104.46.97.203"}
+{"timestamp": "2026-05-12T01:28:04.341754", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 6773, "ip_address": "183.164.6.73"}
+{"timestamp": "2026-05-12T01:28:06.344755", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5767, "ip_address": "77.180.91.219"}
+{"timestamp": "2026-05-12T01:28:08.347945", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6881, "ip_address": "101.254.243.249"}
+{"timestamp": "2026-05-12T01:28:10.350891", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6022, "ip_address": "161.254.83.116"}
+{"timestamp": "2026-05-12T01:28:12.353906", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 1716, "ip_address": "119.19.55.87"}
+{"timestamp": "2026-05-12T01:28:14.356438", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3054, "ip_address": "177.47.38.87"}
+{"timestamp": "2026-05-12T01:28:16.358943", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 6985, "ip_address": "91.85.210.243"}
+{"timestamp": "2026-05-12T01:28:18.361695", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 3046, "ip_address": "175.15.15.68"}
+{"timestamp": "2026-05-12T01:28:20.365571", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1682, "ip_address": "32.155.30.151"}
+{"timestamp": "2026-05-12T01:28:22.369156", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 9436, "ip_address": "205.47.16.17"}
+{"timestamp": "2026-05-12T01:28:24.373096", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7751, "ip_address": "7.109.67.15"}
+{"timestamp": "2026-05-12T01:28:26.376086", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9381, "ip_address": "173.182.144.237"}
+{"timestamp": "2026-05-12T01:28:28.379644", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4826, "ip_address": "40.117.24.44"}
+{"timestamp": "2026-05-12T01:28:30.383205", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 1611, "ip_address": "17.3.215.177"}
+{"timestamp": "2026-05-12T01:28:32.386795", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 7196, "ip_address": "143.21.27.154"}
+{"timestamp": "2026-05-12T01:28:34.389977", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6224, "ip_address": "140.243.226.29"}
+{"timestamp": "2026-05-12T01:28:36.392175", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 5161, "ip_address": "155.164.38.185"}
+{"timestamp": "2026-05-12T01:28:38.395845", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1681, "ip_address": "152.120.235.24"}
+{"timestamp": "2026-05-12T01:28:40.398751", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8889, "ip_address": "5.225.11.2"}
+{"timestamp": "2026-05-12T01:28:42.401659", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4411, "ip_address": "119.91.33.132"}
+{"timestamp": "2026-05-12T01:28:44.404854", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 8162, "ip_address": "173.43.130.95"}
+{"timestamp": "2026-05-12T01:28:46.408087", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1660, "ip_address": "206.56.123.49"}
+{"timestamp": "2026-05-12T01:28:48.411332", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2779, "ip_address": "30.138.255.76"}
+{"timestamp": "2026-05-12T01:28:50.415576", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8903, "ip_address": "40.198.38.148"}
+{"timestamp": "2026-05-12T01:28:52.420069", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 5699, "ip_address": "195.20.60.187"}
+{"timestamp": "2026-05-12T01:28:54.421961", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 1672, "ip_address": "105.184.69.55"}
+{"timestamp": "2026-05-12T01:28:56.424653", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 2778, "ip_address": "86.158.17.82"}
+{"timestamp": "2026-05-12T01:28:58.427200", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2608, "ip_address": "100.223.61.238"}
+{"timestamp": "2026-05-12T01:29:00.430066", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1868, "ip_address": "117.173.29.11"}
+{"timestamp": "2026-05-12T01:29:02.433988", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1463, "ip_address": "180.182.166.194"}
+{"timestamp": "2026-05-12T01:29:04.436162", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 1347, "ip_address": "207.63.181.217"}
+{"timestamp": "2026-05-12T01:29:06.439820", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9270, "ip_address": "213.152.19.205"}
+{"timestamp": "2026-05-12T01:29:08.442750", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9450, "ip_address": "172.9.148.251"}
+{"timestamp": "2026-05-12T01:29:10.446107", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9046, "ip_address": "156.58.222.188"}
+{"timestamp": "2026-05-12T01:29:12.450310", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3418, "ip_address": "40.232.238.109"}
+{"timestamp": "2026-05-12T01:29:14.453113", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 3978, "ip_address": "82.201.253.130"}
+{"timestamp": "2026-05-12T01:29:16.455259", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7460, "ip_address": "193.71.244.107"}
+{"timestamp": "2026-05-12T01:29:18.458222", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9165, "ip_address": "216.28.126.109"}
+{"timestamp": "2026-05-12T01:29:20.462605", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9691, "ip_address": "128.255.88.118"}
+{"timestamp": "2026-05-12T01:29:22.465138", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 8383, "ip_address": "3.79.211.58"}
+{"timestamp": "2026-05-12T01:29:24.467873", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5246, "ip_address": "219.19.189.210"}
+{"timestamp": "2026-05-12T01:29:26.470510", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5498, "ip_address": "110.196.251.23"}
+{"timestamp": "2026-05-12T01:29:28.474325", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6971, "ip_address": "115.21.194.170"}
+{"timestamp": "2026-05-12T01:29:30.477252", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 9443, "ip_address": "174.113.65.204"}
+{"timestamp": "2026-05-12T01:29:32.480338", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5722, "ip_address": "180.126.27.35"}
+{"timestamp": "2026-05-12T01:29:34.483652", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8984, "ip_address": "81.63.62.11"}
+{"timestamp": "2026-05-12T01:29:36.486227", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9676, "ip_address": "184.230.5.240"}
+{"timestamp": "2026-05-12T01:29:38.490250", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1591, "ip_address": "85.112.156.182"}
+{"timestamp": "2026-05-12T01:29:40.493113", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9186, "ip_address": "25.219.198.246"}
+{"timestamp": "2026-05-12T01:29:42.495368", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4629, "ip_address": "48.83.116.72"}
+{"timestamp": "2026-05-12T01:29:44.499192", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6789, "ip_address": "102.50.179.236"}
+{"timestamp": "2026-05-12T01:29:46.501192", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 9614, "ip_address": "102.121.18.167"}
+{"timestamp": "2026-05-12T01:29:48.503674", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3240, "ip_address": "92.26.58.170"}
+{"timestamp": "2026-05-12T01:29:50.506521", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 9420, "ip_address": "19.129.189.52"}
+{"timestamp": "2026-05-12T01:29:52.510589", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8501, "ip_address": "42.204.244.62"}
+{"timestamp": "2026-05-12T01:29:54.513766", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 3808, "ip_address": "86.125.82.61"}
+{"timestamp": "2026-05-12T01:29:56.516849", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3719, "ip_address": "101.85.60.95"}
+{"timestamp": "2026-05-12T01:29:58.519238", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 8186, "ip_address": "183.145.58.154"}
+{"timestamp": "2026-05-12T01:30:00.523622", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2779, "ip_address": "199.21.32.47"}
+{"timestamp": "2026-05-12T01:30:02.526188", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1233, "ip_address": "55.202.146.243"}
+{"timestamp": "2026-05-12T01:30:04.528500", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2761, "ip_address": "1.142.137.252"}
+{"timestamp": "2026-05-12T01:30:06.531244", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2504, "ip_address": "117.163.45.80"}
+{"timestamp": "2026-05-12T01:30:08.535689", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1230, "ip_address": "201.126.94.14"}
+{"timestamp": "2026-05-12T01:30:10.539012", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 1875, "ip_address": "27.180.122.162"}
+{"timestamp": "2026-05-12T01:30:12.540114", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1480, "ip_address": "53.229.225.35"}
+{"timestamp": "2026-05-12T01:30:14.542827", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 1360, "ip_address": "221.113.182.56"}
+{"timestamp": "2026-05-12T01:30:16.546354", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1346, "ip_address": "9.15.187.215"}
+{"timestamp": "2026-05-12T01:30:18.551644", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3655, "ip_address": "51.8.62.225"}
+{"timestamp": "2026-05-12T01:30:20.554505", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2366, "ip_address": "205.27.219.12"}
+{"timestamp": "2026-05-12T01:30:22.558151", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 5726, "ip_address": "180.202.149.7"}
+{"timestamp": "2026-05-12T01:30:24.561155", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 2774, "ip_address": "156.216.38.243"}
+{"timestamp": "2026-05-12T01:30:26.564144", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6837, "ip_address": "78.180.249.178"}
+{"timestamp": "2026-05-12T01:30:28.567106", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2483, "ip_address": "210.205.218.212"}
+{"timestamp": "2026-05-12T01:30:30.570239", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 3683, "ip_address": "197.16.25.69"}
+{"timestamp": "2026-05-12T01:30:32.573852", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3304, "ip_address": "154.78.80.198"}
+{"timestamp": "2026-05-12T01:30:34.576894", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 5674, "ip_address": "25.112.5.79"}
+{"timestamp": "2026-05-12T01:30:36.580192", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 4151, "ip_address": "111.45.234.211"}
+{"timestamp": "2026-05-12T01:30:38.582468", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1603, "ip_address": "25.116.102.160"}
+{"timestamp": "2026-05-12T01:30:40.586758", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 9066, "ip_address": "56.46.55.137"}
+{"timestamp": "2026-05-12T01:30:42.590631", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 2931, "ip_address": "42.145.182.213"}
+{"timestamp": "2026-05-12T01:30:44.592891", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7139, "ip_address": "147.222.16.202"}
+{"timestamp": "2026-05-12T01:30:46.597147", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 6297, "ip_address": "12.25.18.201"}
+{"timestamp": "2026-05-12T01:30:48.599586", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9568, "ip_address": "138.104.224.237"}
+{"timestamp": "2026-05-12T01:30:50.602296", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 3998, "ip_address": "164.68.85.255"}
+{"timestamp": "2026-05-12T01:30:52.605138", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9359, "ip_address": "104.167.52.78"}
+{"timestamp": "2026-05-12T01:30:54.607960", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 4225, "ip_address": "137.155.114.168"}
+{"timestamp": "2026-05-12T01:30:56.610588", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9540, "ip_address": "93.13.224.100"}
+{"timestamp": "2026-05-12T01:30:58.613879", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4150, "ip_address": "6.211.180.158"}
+{"timestamp": "2026-05-12T01:31:00.617427", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 9342, "ip_address": "24.30.228.164"}
+{"timestamp": "2026-05-12T01:31:02.619667", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8953, "ip_address": "21.251.196.10"}
+{"timestamp": "2026-05-12T01:31:04.622412", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 9336, "ip_address": "67.194.9.210"}
+{"timestamp": "2026-05-12T01:31:06.624303", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5204, "ip_address": "90.137.99.201"}
+{"timestamp": "2026-05-12T01:31:08.626786", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5368, "ip_address": "155.174.45.56"}
+{"timestamp": "2026-05-12T01:31:10.629410", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1678, "ip_address": "162.125.82.236"}
+{"timestamp": "2026-05-12T01:31:12.631736", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7960, "ip_address": "156.3.126.128"}
+{"timestamp": "2026-05-12T01:31:14.639266", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9645, "ip_address": "51.163.75.239"}
+{"timestamp": "2026-05-12T01:31:16.642353", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1968, "ip_address": "60.109.2.80"}
+{"timestamp": "2026-05-12T01:31:18.644697", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6856, "ip_address": "212.156.174.97"}
+{"timestamp": "2026-05-12T01:31:20.646679", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6574, "ip_address": "86.9.146.119"}
+{"timestamp": "2026-05-12T01:31:22.648381", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4165, "ip_address": "203.87.142.89"}
+{"timestamp": "2026-05-12T01:31:24.651018", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4110, "ip_address": "105.31.199.166"}
+{"timestamp": "2026-05-12T01:31:26.655171", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 4839, "ip_address": "3.44.248.186"}
+{"timestamp": "2026-05-12T01:31:28.658492", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2437, "ip_address": "109.146.29.99"}
+{"timestamp": "2026-05-12T01:31:30.664344", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4809, "ip_address": "30.64.227.139"}
+{"timestamp": "2026-05-12T01:31:32.668055", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6975, "ip_address": "89.244.138.164"}
+{"timestamp": "2026-05-12T01:31:34.670092", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7462, "ip_address": "94.101.216.249"}
+{"timestamp": "2026-05-12T01:31:36.672705", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1362, "ip_address": "10.221.16.178"}
+{"timestamp": "2026-05-12T01:31:38.675614", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5800, "ip_address": "173.105.38.193"}
+{"timestamp": "2026-05-12T01:31:40.678358", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8192, "ip_address": "33.81.202.60"}
+{"timestamp": "2026-05-12T01:31:42.682062", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1665, "ip_address": "207.245.148.156"}
+{"timestamp": "2026-05-12T01:31:44.684147", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1676, "ip_address": "166.83.162.161"}
+{"timestamp": "2026-05-12T01:31:46.685565", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9207, "ip_address": "85.247.174.202"}
+{"timestamp": "2026-05-12T01:31:48.687174", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8398, "ip_address": "2.252.199.183"}
+{"timestamp": "2026-05-12T01:31:50.689183", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5986, "ip_address": "160.138.23.244"}
+{"timestamp": "2026-05-12T01:31:52.695428", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9576, "ip_address": "16.144.131.61"}
+{"timestamp": "2026-05-12T01:31:54.698082", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5463, "ip_address": "149.157.17.221"}
+{"timestamp": "2026-05-12T01:31:56.705254", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 1125, "ip_address": "201.255.54.127"}
+{"timestamp": "2026-05-12T01:31:58.710403", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 8015, "ip_address": "84.91.65.234"}
+{"timestamp": "2026-05-12T01:32:00.712730", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5262, "ip_address": "207.109.254.113"}
+{"timestamp": "2026-05-12T01:32:02.715929", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 3902, "ip_address": "164.201.133.229"}
+{"timestamp": "2026-05-12T01:32:04.718246", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9823, "ip_address": "209.28.162.254"}
+{"timestamp": "2026-05-12T01:32:06.720795", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 2967, "ip_address": "180.92.253.36"}
+{"timestamp": "2026-05-12T01:32:08.725508", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8742, "ip_address": "120.19.239.242"}
+{"timestamp": "2026-05-12T01:32:10.727234", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 7826, "ip_address": "10.154.12.124"}
+{"timestamp": "2026-05-12T01:32:12.729674", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8425, "ip_address": "102.7.53.36"}
+{"timestamp": "2026-05-12T01:32:14.732309", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 4676, "ip_address": "221.246.103.222"}
+{"timestamp": "2026-05-12T01:32:16.734255", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8610, "ip_address": "44.15.24.221"}
+{"timestamp": "2026-05-12T01:32:18.736064", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5294, "ip_address": "92.211.199.32"}
+{"timestamp": "2026-05-12T01:32:20.738835", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 6636, "ip_address": "33.115.20.159"}
+{"timestamp": "2026-05-12T01:32:22.741494", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7561, "ip_address": "24.202.216.106"}
+{"timestamp": "2026-05-12T01:32:24.744140", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4298, "ip_address": "51.232.152.119"}
+{"timestamp": "2026-05-12T01:32:26.745536", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8650, "ip_address": "222.91.54.206"}
+{"timestamp": "2026-05-12T01:32:28.747559", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 5339, "ip_address": "212.41.99.159"}
+{"timestamp": "2026-05-12T01:32:30.751502", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 6675, "ip_address": "7.5.210.116"}
+{"timestamp": "2026-05-12T01:32:32.753515", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 7936, "ip_address": "68.205.56.108"}
+{"timestamp": "2026-05-12T01:32:34.755530", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 9077, "ip_address": "117.63.184.171"}
+{"timestamp": "2026-05-12T01:32:36.757589", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8190, "ip_address": "2.86.176.172"}
+{"timestamp": "2026-05-12T01:32:38.759792", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9329, "ip_address": "39.33.183.38"}
+{"timestamp": "2026-05-12T01:32:40.761456", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1354, "ip_address": "202.86.140.226"}
+{"timestamp": "2026-05-12T01:32:42.764594", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5193, "ip_address": "146.226.215.91"}
+{"timestamp": "2026-05-12T01:32:44.769153", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2694, "ip_address": "126.55.8.132"}
+{"timestamp": "2026-05-12T01:32:46.771284", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 8934, "ip_address": "80.10.10.211"}
+{"timestamp": "2026-05-12T01:32:48.771914", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1351, "ip_address": "139.85.82.96"}
+{"timestamp": "2026-05-12T01:32:50.774025", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5724, "ip_address": "7.149.250.224"}
+{"timestamp": "2026-05-12T01:32:52.776026", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4017, "ip_address": "93.106.205.175"}
+{"timestamp": "2026-05-12T01:32:54.778561", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5784, "ip_address": "190.8.155.254"}
+{"timestamp": "2026-05-12T01:32:56.785867", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3962, "ip_address": "71.148.111.84"}
+{"timestamp": "2026-05-12T01:32:58.788010", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9737, "ip_address": "57.99.116.73"}
+{"timestamp": "2026-05-12T01:33:00.793893", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 8710, "ip_address": "142.90.51.108"}
+{"timestamp": "2026-05-12T01:33:02.800001", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 4359, "ip_address": "107.253.141.51"}
+{"timestamp": "2026-05-12T01:33:04.806838", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7733, "ip_address": "58.219.59.99"}
+{"timestamp": "2026-05-12T01:33:06.808566", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 1944, "ip_address": "170.47.75.34"}
+{"timestamp": "2026-05-12T01:33:08.810816", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8234, "ip_address": "151.193.108.65"}
+{"timestamp": "2026-05-12T01:33:10.811829", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3164, "ip_address": "2.10.169.163"}
+{"timestamp": "2026-05-12T01:33:12.816223", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 6288, "ip_address": "71.183.187.215"}
+{"timestamp": "2026-05-12T01:33:14.821617", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8541, "ip_address": "113.189.234.131"}
+{"timestamp": "2026-05-12T01:33:16.828834", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1062, "ip_address": "126.97.105.219"}
+{"timestamp": "2026-05-12T01:33:18.830310", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 9625, "ip_address": "79.101.229.89"}
+{"timestamp": "2026-05-12T01:33:20.835102", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8661, "ip_address": "207.173.48.102"}
+{"timestamp": "2026-05-12T01:33:22.840325", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1512, "ip_address": "140.165.228.224"}
+{"timestamp": "2026-05-12T01:33:24.846533", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1792, "ip_address": "215.44.107.217"}
+{"timestamp": "2026-05-12T01:33:26.854398", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3682, "ip_address": "151.19.0.200"}
+{"timestamp": "2026-05-12T01:33:28.858270", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 5799, "ip_address": "47.88.48.99"}
+{"timestamp": "2026-05-12T01:33:30.859755", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 8455, "ip_address": "16.62.22.78"}
+{"timestamp": "2026-05-12T01:33:32.862602", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5912, "ip_address": "204.167.202.209"}
+{"timestamp": "2026-05-12T01:33:34.867522", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6295, "ip_address": "143.202.147.171"}
+{"timestamp": "2026-05-12T01:33:36.869828", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 6117, "ip_address": "154.65.30.124"}
+{"timestamp": "2026-05-12T01:33:38.873001", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5878, "ip_address": "11.145.212.177"}
+{"timestamp": "2026-05-12T01:33:40.874579", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 1335, "ip_address": "130.21.160.9"}
+{"timestamp": "2026-05-12T01:33:42.877514", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8395, "ip_address": "123.163.70.191"}
+{"timestamp": "2026-05-12T01:33:44.879814", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7638, "ip_address": "23.43.7.166"}
+{"timestamp": "2026-05-12T01:33:46.885340", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6996, "ip_address": "75.55.18.216"}
+{"timestamp": "2026-05-12T01:33:48.888649", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5669, "ip_address": "137.151.223.35"}
+{"timestamp": "2026-05-12T01:33:50.890944", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7665, "ip_address": "49.244.53.42"}
+{"timestamp": "2026-05-12T01:33:52.894318", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5203, "ip_address": "162.16.6.0"}
+{"timestamp": "2026-05-12T01:33:54.899586", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2524, "ip_address": "192.224.216.188"}
+{"timestamp": "2026-05-12T01:33:56.902461", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5345, "ip_address": "6.48.95.43"}
+{"timestamp": "2026-05-12T01:33:58.910004", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3258, "ip_address": "110.32.223.49"}
+{"timestamp": "2026-05-12T01:34:00.911519", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 3778, "ip_address": "79.185.143.34"}
+{"timestamp": "2026-05-12T01:34:02.918075", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 7782, "ip_address": "13.43.153.119"}
+{"timestamp": "2026-05-12T01:34:04.923406", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7875, "ip_address": "97.215.209.127"}
+{"timestamp": "2026-05-12T01:34:06.925305", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4258, "ip_address": "209.63.112.116"}
+{"timestamp": "2026-05-12T01:34:08.929303", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7401, "ip_address": "61.141.19.203"}
+{"timestamp": "2026-05-12T01:34:10.931632", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8306, "ip_address": "102.194.17.79"}
+{"timestamp": "2026-05-12T01:34:12.935037", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8539, "ip_address": "164.35.96.176"}
+{"timestamp": "2026-05-12T01:34:14.937775", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 3816, "ip_address": "166.200.190.244"}
+{"timestamp": "2026-05-12T01:34:16.941067", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9001, "ip_address": "205.20.230.24"}
+{"timestamp": "2026-05-12T01:34:18.942495", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 1121, "ip_address": "86.69.210.121"}
+{"timestamp": "2026-05-12T01:34:20.948583", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9987, "ip_address": "122.255.65.45"}
+{"timestamp": "2026-05-12T01:34:22.951327", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6005, "ip_address": "216.50.206.185"}
+{"timestamp": "2026-05-12T01:34:24.953775", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 2175, "ip_address": "215.3.80.88"}
+{"timestamp": "2026-05-12T01:34:26.957102", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3380, "ip_address": "148.186.197.151"}
+{"timestamp": "2026-05-12T01:34:28.959863", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5226, "ip_address": "216.16.70.148"}
+{"timestamp": "2026-05-12T01:34:30.961695", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 2714, "ip_address": "208.152.77.26"}
+{"timestamp": "2026-05-12T01:34:32.968017", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5019, "ip_address": "145.241.97.106"}
+{"timestamp": "2026-05-12T01:34:34.972025", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5450, "ip_address": "31.6.140.170"}
+{"timestamp": "2026-05-12T01:34:36.973322", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7818, "ip_address": "102.34.213.187"}
+{"timestamp": "2026-05-12T01:34:38.978179", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3698, "ip_address": "189.178.126.12"}
+{"timestamp": "2026-05-12T01:34:40.985040", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6367, "ip_address": "125.122.242.69"}
+{"timestamp": "2026-05-12T01:34:42.987691", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9437, "ip_address": "63.44.19.114"}
+{"timestamp": "2026-05-12T01:34:44.989766", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 5325, "ip_address": "104.171.31.52"}
+{"timestamp": "2026-05-12T01:34:46.993533", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 7996, "ip_address": "118.162.216.13"}
+{"timestamp": "2026-05-12T01:34:48.997128", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5205, "ip_address": "36.180.124.35"}
+{"timestamp": "2026-05-12T01:34:51.000126", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 8603, "ip_address": "51.136.78.9"}
+{"timestamp": "2026-05-12T01:34:53.003974", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 4258, "ip_address": "197.91.81.223"}
+{"timestamp": "2026-05-12T01:34:55.008344", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1770, "ip_address": "58.242.67.126"}
+{"timestamp": "2026-05-12T01:34:57.010315", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4119, "ip_address": "189.217.36.184"}
+{"timestamp": "2026-05-12T01:34:59.012380", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 3122, "ip_address": "211.237.28.190"}
+{"timestamp": "2026-05-12T01:35:01.019266", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 6032, "ip_address": "177.20.93.92"}
+{"timestamp": "2026-05-12T01:35:03.023483", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7918, "ip_address": "48.214.35.23"}
+{"timestamp": "2026-05-12T01:35:05.030303", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 8626, "ip_address": "66.150.0.208"}
+{"timestamp": "2026-05-12T01:35:07.033294", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8802, "ip_address": "185.118.48.211"}
+{"timestamp": "2026-05-12T01:35:09.038021", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7459, "ip_address": "65.51.154.235"}
+{"timestamp": "2026-05-12T01:35:11.041099", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6673, "ip_address": "26.180.38.184"}
+{"timestamp": "2026-05-12T01:35:13.045062", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2817, "ip_address": "93.125.105.214"}
+{"timestamp": "2026-05-12T01:35:15.047389", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1626, "ip_address": "83.166.247.57"}
+{"timestamp": "2026-05-12T01:35:17.049687", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8308, "ip_address": "131.168.31.51"}
+{"timestamp": "2026-05-12T01:35:19.056727", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2495, "ip_address": "58.45.182.224"}
+{"timestamp": "2026-05-12T01:35:21.060888", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5744, "ip_address": "10.152.142.42"}
+{"timestamp": "2026-05-12T01:35:23.064411", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 2486, "ip_address": "50.255.161.157"}
+{"timestamp": "2026-05-12T01:35:25.067231", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7978, "ip_address": "213.104.24.147"}
+{"timestamp": "2026-05-12T01:35:27.072004", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9017, "ip_address": "50.139.233.78"}
+{"timestamp": "2026-05-12T01:35:29.079384", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8970, "ip_address": "86.83.156.155"}
+{"timestamp": "2026-05-12T01:35:31.081547", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1429, "ip_address": "80.192.196.48"}
+{"timestamp": "2026-05-12T01:35:33.083548", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 3537, "ip_address": "184.232.199.8"}
+{"timestamp": "2026-05-12T01:35:35.090417", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5944, "ip_address": "40.101.129.102"}
+{"timestamp": "2026-05-12T01:35:37.094700", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9804, "ip_address": "89.143.109.47"}
+{"timestamp": "2026-05-12T01:35:39.096716", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4893, "ip_address": "192.119.107.186"}
+{"timestamp": "2026-05-12T01:35:41.099630", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9495, "ip_address": "31.186.68.84"}
+{"timestamp": "2026-05-12T01:35:43.103259", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 4083, "ip_address": "75.87.235.197"}
+{"timestamp": "2026-05-12T01:35:45.110585", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5039, "ip_address": "61.184.245.104"}
+{"timestamp": "2026-05-12T01:35:47.113629", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 6498, "ip_address": "178.62.185.155"}
+{"timestamp": "2026-05-12T01:35:49.116719", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 5794, "ip_address": "202.235.126.149"}
+{"timestamp": "2026-05-12T01:35:51.123574", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6281, "ip_address": "147.90.42.197"}
+{"timestamp": "2026-05-12T01:35:53.126539", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7240, "ip_address": "47.234.180.77"}
+{"timestamp": "2026-05-12T01:35:55.130468", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8724, "ip_address": "157.205.185.192"}
+{"timestamp": "2026-05-12T01:35:57.134796", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8218, "ip_address": "157.245.128.201"}
+{"timestamp": "2026-05-12T01:35:59.141138", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 5466, "ip_address": "101.166.234.35"}
+{"timestamp": "2026-05-12T01:36:01.143125", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 1986, "ip_address": "197.223.222.220"}
+{"timestamp": "2026-05-12T01:36:03.147009", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2283, "ip_address": "198.66.174.51"}
+{"timestamp": "2026-05-12T01:36:05.151302", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 4759, "ip_address": "90.255.16.137"}
+{"timestamp": "2026-05-12T01:36:07.155619", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 3120, "ip_address": "144.110.62.186"}
+{"timestamp": "2026-05-12T01:36:09.159537", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3316, "ip_address": "104.165.10.43"}
+{"timestamp": "2026-05-12T01:36:11.165450", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7709, "ip_address": "137.58.6.115"}
+{"timestamp": "2026-05-12T01:36:13.169196", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2590, "ip_address": "129.25.220.159"}
+{"timestamp": "2026-05-12T01:36:15.174418", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7423, "ip_address": "117.245.57.101"}
+{"timestamp": "2026-05-12T01:36:17.180753", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6879, "ip_address": "89.149.3.54"}
+{"timestamp": "2026-05-12T01:36:19.185903", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 8949, "ip_address": "213.18.203.118"}
+{"timestamp": "2026-05-12T01:36:21.189591", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3969, "ip_address": "87.30.148.149"}
+{"timestamp": "2026-05-12T01:36:23.191727", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6693, "ip_address": "204.146.152.238"}
+{"timestamp": "2026-05-12T01:36:25.193492", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 1369, "ip_address": "20.161.42.153"}
+{"timestamp": "2026-05-12T01:36:27.196186", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9925, "ip_address": "132.15.204.74"}
+{"timestamp": "2026-05-12T01:36:29.198474", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7495, "ip_address": "34.120.62.184"}
+{"timestamp": "2026-05-12T01:36:31.200498", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 2380, "ip_address": "72.119.70.172"}
+{"timestamp": "2026-05-12T01:36:33.202430", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7884, "ip_address": "175.239.224.3"}
+{"timestamp": "2026-05-12T01:36:35.209468", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 4818, "ip_address": "136.3.126.89"}
+{"timestamp": "2026-05-12T01:36:37.212244", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3104, "ip_address": "13.69.225.204"}
+{"timestamp": "2026-05-12T01:36:39.215800", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1580, "ip_address": "22.71.90.165"}
+{"timestamp": "2026-05-12T01:36:41.219777", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 8204, "ip_address": "165.247.55.132"}
+{"timestamp": "2026-05-12T01:36:43.221453", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 1228, "ip_address": "216.139.96.168"}
+{"timestamp": "2026-05-12T01:36:45.225057", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 8029, "ip_address": "5.145.70.6"}
+{"timestamp": "2026-05-12T01:36:47.227998", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 6233, "ip_address": "161.244.169.142"}
+{"timestamp": "2026-05-12T01:36:49.231302", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 6923, "ip_address": "213.156.195.29"}
+{"timestamp": "2026-05-12T01:36:51.236323", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2712, "ip_address": "203.236.239.32"}
+{"timestamp": "2026-05-12T01:36:53.242382", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8735, "ip_address": "154.72.9.100"}
+{"timestamp": "2026-05-12T01:36:55.246549", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6801, "ip_address": "116.41.215.22"}
+{"timestamp": "2026-05-12T01:36:57.251113", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8815, "ip_address": "157.170.232.7"}
+{"timestamp": "2026-05-12T01:36:59.255692", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5191, "ip_address": "130.179.135.177"}
+{"timestamp": "2026-05-12T01:37:01.258698", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 6664, "ip_address": "217.212.107.25"}
+{"timestamp": "2026-05-12T01:37:03.261880", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5873, "ip_address": "8.106.147.159"}
+{"timestamp": "2026-05-12T01:37:05.265522", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4451, "ip_address": "89.72.128.32"}
+{"timestamp": "2026-05-12T01:37:07.268175", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2065, "ip_address": "169.0.220.21"}
+{"timestamp": "2026-05-12T01:37:09.271506", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8522, "ip_address": "78.182.113.243"}
+{"timestamp": "2026-05-12T01:37:11.273883", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5089, "ip_address": "18.36.247.17"}
+{"timestamp": "2026-05-12T01:37:13.278142", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4968, "ip_address": "146.83.243.124"}
+{"timestamp": "2026-05-12T01:37:15.281641", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 5406, "ip_address": "160.206.50.92"}
+{"timestamp": "2026-05-12T01:37:17.285249", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4218, "ip_address": "11.189.196.156"}
+{"timestamp": "2026-05-12T01:37:19.287911", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4058, "ip_address": "125.151.94.87"}
+{"timestamp": "2026-05-12T01:37:21.289747", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8190, "ip_address": "128.83.174.228"}
+{"timestamp": "2026-05-12T01:37:23.297178", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 1361, "ip_address": "106.45.60.141"}
+{"timestamp": "2026-05-12T01:37:25.302668", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 6500, "ip_address": "11.253.231.188"}
+{"timestamp": "2026-05-12T01:37:27.305717", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8755, "ip_address": "125.33.98.170"}
+{"timestamp": "2026-05-12T01:37:29.310181", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3249, "ip_address": "120.12.89.229"}
+{"timestamp": "2026-05-12T01:37:31.312965", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 2396, "ip_address": "62.54.139.140"}
+{"timestamp": "2026-05-12T01:37:33.318159", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4113, "ip_address": "207.18.1.140"}
+{"timestamp": "2026-05-12T01:37:35.319829", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 6134, "ip_address": "194.238.119.133"}
+{"timestamp": "2026-05-12T01:37:37.324736", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8381, "ip_address": "97.91.5.108"}
+{"timestamp": "2026-05-12T01:37:39.330561", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 7215, "ip_address": "65.247.182.216"}
+{"timestamp": "2026-05-12T01:37:41.337167", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6290, "ip_address": "89.181.95.58"}
+{"timestamp": "2026-05-12T01:37:43.342498", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 6979, "ip_address": "140.179.152.209"}
+{"timestamp": "2026-05-12T01:37:45.349446", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7744, "ip_address": "61.243.23.249"}
+{"timestamp": "2026-05-12T01:37:47.355421", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 6107, "ip_address": "66.133.23.49"}
+{"timestamp": "2026-05-12T01:37:49.360277", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2224, "ip_address": "144.168.100.118"}
+{"timestamp": "2026-05-12T01:37:51.367495", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 5396, "ip_address": "81.147.95.94"}
+{"timestamp": "2026-05-12T01:37:53.370488", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5369, "ip_address": "82.83.48.245"}
+{"timestamp": "2026-05-12T01:37:55.373971", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 7076, "ip_address": "187.134.82.232"}
+{"timestamp": "2026-05-12T01:37:57.377399", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 2696, "ip_address": "37.76.253.191"}
+{"timestamp": "2026-05-12T01:37:59.379383", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 4992, "ip_address": "128.187.138.36"}
+{"timestamp": "2026-05-12T01:38:01.386511", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3184, "ip_address": "120.186.111.109"}
+{"timestamp": "2026-05-12T01:38:03.393166", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5744, "ip_address": "199.238.79.68"}
+{"timestamp": "2026-05-12T01:38:05.398941", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1092, "ip_address": "161.148.76.103"}
+{"timestamp": "2026-05-12T01:38:07.405249", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1045, "ip_address": "45.138.204.43"}
+{"timestamp": "2026-05-12T01:38:09.412515", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 2847, "ip_address": "57.62.236.94"}
+{"timestamp": "2026-05-12T01:38:11.416507", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2759, "ip_address": "103.19.40.33"}
+{"timestamp": "2026-05-12T01:38:13.423529", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5492, "ip_address": "172.50.185.193"}
+{"timestamp": "2026-05-12T01:38:15.430477", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6342, "ip_address": "132.74.194.106"}
+{"timestamp": "2026-05-12T01:38:17.436182", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3478, "ip_address": "101.127.60.81"}
+{"timestamp": "2026-05-12T01:38:19.438949", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 6021, "ip_address": "42.104.180.193"}
+{"timestamp": "2026-05-12T01:38:21.444287", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6159, "ip_address": "27.33.140.233"}
+{"timestamp": "2026-05-12T01:38:23.448485", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 6425, "ip_address": "27.20.7.37"}
+{"timestamp": "2026-05-12T01:38:25.450855", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 3408, "ip_address": "194.148.131.244"}
+{"timestamp": "2026-05-12T01:38:27.452765", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5323, "ip_address": "6.187.241.81"}
+{"timestamp": "2026-05-12T01:38:29.456126", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 1664, "ip_address": "48.169.1.206"}
+{"timestamp": "2026-05-12T01:38:31.459996", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7093, "ip_address": "82.212.189.166"}
+{"timestamp": "2026-05-12T01:38:33.466419", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2115, "ip_address": "37.143.70.60"}
+{"timestamp": "2026-05-12T01:38:35.468915", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5830, "ip_address": "122.166.152.41"}
+{"timestamp": "2026-05-12T01:38:37.474256", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8130, "ip_address": "27.31.143.89"}
+{"timestamp": "2026-05-12T01:38:39.478253", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9164, "ip_address": "213.112.85.175"}
+{"timestamp": "2026-05-12T01:38:41.485709", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9060, "ip_address": "62.132.107.168"}
+{"timestamp": "2026-05-12T01:38:43.488711", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8432, "ip_address": "184.19.233.185"}
+{"timestamp": "2026-05-12T01:38:45.491783", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5782, "ip_address": "199.35.171.114"}
+{"timestamp": "2026-05-12T01:38:47.496634", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1338, "ip_address": "73.29.8.183"}
+{"timestamp": "2026-05-12T01:38:49.498383", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3478, "ip_address": "187.15.88.206"}
+{"timestamp": "2026-05-12T01:38:51.503938", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8309, "ip_address": "125.186.223.80"}
+{"timestamp": "2026-05-12T01:38:53.506711", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 3175, "ip_address": "79.19.76.26"}
+{"timestamp": "2026-05-12T01:38:55.509455", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2057, "ip_address": "183.151.42.106"}
+{"timestamp": "2026-05-12T01:38:57.513366", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4907, "ip_address": "90.167.228.142"}
+{"timestamp": "2026-05-12T01:38:59.521255", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7286, "ip_address": "95.164.48.59"}
+{"timestamp": "2026-05-12T01:39:01.523718", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 9098, "ip_address": "132.169.56.80"}
+{"timestamp": "2026-05-12T01:39:03.528247", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 1178, "ip_address": "128.84.230.64"}
+{"timestamp": "2026-05-12T01:39:05.531933", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 5548, "ip_address": "148.113.232.247"}
+{"timestamp": "2026-05-12T01:39:07.536412", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1550, "ip_address": "165.3.200.18"}
+{"timestamp": "2026-05-12T01:39:09.540293", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9027, "ip_address": "19.176.245.214"}
+{"timestamp": "2026-05-12T01:39:11.542980", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 6299, "ip_address": "15.119.46.219"}
+{"timestamp": "2026-05-12T01:39:13.546597", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 7614, "ip_address": "25.156.115.47"}
+{"timestamp": "2026-05-12T01:39:15.548261", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9830, "ip_address": "85.28.9.36"}
+{"timestamp": "2026-05-12T01:39:17.553325", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8409, "ip_address": "80.186.49.251"}
+{"timestamp": "2026-05-12T01:39:19.560626", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 5993, "ip_address": "72.96.145.72"}
+{"timestamp": "2026-05-12T01:39:21.565020", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 7580, "ip_address": "219.30.188.14"}
+{"timestamp": "2026-05-12T01:39:23.572626", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 4590, "ip_address": "111.213.126.67"}
+{"timestamp": "2026-05-12T01:39:25.574965", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1910, "ip_address": "108.93.96.145"}
+{"timestamp": "2026-05-12T01:39:27.582607", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1540, "ip_address": "10.217.1.178"}
+{"timestamp": "2026-05-12T01:39:29.589622", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 4534, "ip_address": "58.223.42.90"}
+{"timestamp": "2026-05-12T01:39:31.592590", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8840, "ip_address": "157.190.109.44"}
+{"timestamp": "2026-05-12T01:39:33.595753", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3463, "ip_address": "177.133.132.255"}
+{"timestamp": "2026-05-12T01:39:35.599252", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4602, "ip_address": "126.58.119.148"}
+{"timestamp": "2026-05-12T01:39:37.605869", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7343, "ip_address": "60.247.186.254"}
+{"timestamp": "2026-05-12T01:39:39.610696", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9796, "ip_address": "120.167.143.168"}
+{"timestamp": "2026-05-12T01:39:41.618685", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6851, "ip_address": "42.104.177.116"}
+{"timestamp": "2026-05-12T01:39:43.624528", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5057, "ip_address": "45.181.247.140"}
+{"timestamp": "2026-05-12T01:39:45.628584", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7860, "ip_address": "121.112.214.90"}
+{"timestamp": "2026-05-12T01:39:47.631564", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1264, "ip_address": "7.64.37.1"}
+{"timestamp": "2026-05-12T01:39:49.635272", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6314, "ip_address": "150.93.212.130"}
+{"timestamp": "2026-05-12T01:39:51.637668", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2576, "ip_address": "207.219.148.34"}
+{"timestamp": "2026-05-12T01:39:53.640522", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 3270, "ip_address": "119.81.176.4"}
+{"timestamp": "2026-05-12T01:39:55.645494", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2297, "ip_address": "220.217.71.65"}
+{"timestamp": "2026-05-12T01:39:57.649472", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3511, "ip_address": "163.129.194.162"}
+{"timestamp": "2026-05-12T01:39:59.655365", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 8559, "ip_address": "134.168.176.77"}
+{"timestamp": "2026-05-12T01:40:01.660143", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 1457, "ip_address": "168.52.207.5"}
+{"timestamp": "2026-05-12T01:40:03.665005", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 5917, "ip_address": "117.242.100.17"}
+{"timestamp": "2026-05-12T01:40:05.669371", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3003, "ip_address": "186.59.39.7"}
+{"timestamp": "2026-05-12T01:40:07.676444", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4323, "ip_address": "139.106.245.138"}
+{"timestamp": "2026-05-12T01:40:09.679919", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6242, "ip_address": "179.123.100.104"}
+{"timestamp": "2026-05-12T01:40:11.684989", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1444, "ip_address": "179.66.122.206"}
+{"timestamp": "2026-05-12T01:40:13.688315", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 2235, "ip_address": "189.82.69.156"}
+{"timestamp": "2026-05-12T01:40:15.694875", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 7878, "ip_address": "115.3.172.44"}
+{"timestamp": "2026-05-12T01:40:17.703175", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6954, "ip_address": "152.165.157.107"}
+{"timestamp": "2026-05-12T01:40:19.705238", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1227, "ip_address": "52.156.81.61"}
+{"timestamp": "2026-05-12T01:40:21.708628", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 5257, "ip_address": "61.90.144.13"}
+{"timestamp": "2026-05-12T01:40:23.712619", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7466, "ip_address": "170.113.120.47"}
+{"timestamp": "2026-05-12T01:40:25.715407", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4966, "ip_address": "58.16.40.50"}
+{"timestamp": "2026-05-12T01:40:27.722425", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4213, "ip_address": "37.0.181.63"}
+{"timestamp": "2026-05-12T01:40:29.730179", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 5886, "ip_address": "150.31.109.135"}
+{"timestamp": "2026-05-12T01:40:31.732589", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7976, "ip_address": "215.40.155.165"}
+{"timestamp": "2026-05-12T01:40:33.736284", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4686, "ip_address": "201.108.199.51"}
+{"timestamp": "2026-05-12T01:40:35.739336", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 6193, "ip_address": "141.91.34.204"}
+{"timestamp": "2026-05-12T01:40:37.741394", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 8377, "ip_address": "110.43.25.2"}
+{"timestamp": "2026-05-12T01:40:39.744588", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7324, "ip_address": "178.164.155.113"}
+{"timestamp": "2026-05-12T01:40:41.747318", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6638, "ip_address": "179.67.116.182"}
+{"timestamp": "2026-05-12T01:40:43.750761", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9062, "ip_address": "157.225.85.158"}
+{"timestamp": "2026-05-12T01:40:45.754518", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 1963, "ip_address": "187.198.173.134"}
+{"timestamp": "2026-05-12T01:40:47.755206", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2652, "ip_address": "59.156.205.53"}
+{"timestamp": "2026-05-12T01:40:49.757971", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5936, "ip_address": "40.127.78.39"}
+{"timestamp": "2026-05-12T01:40:51.761250", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7134, "ip_address": "88.31.26.235"}
+{"timestamp": "2026-05-12T01:40:53.763315", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6050, "ip_address": "33.150.116.204"}
+{"timestamp": "2026-05-12T01:40:55.765799", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 3218, "ip_address": "94.82.79.104"}
+{"timestamp": "2026-05-12T01:40:57.768631", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7676, "ip_address": "167.34.87.19"}
+{"timestamp": "2026-05-12T01:40:59.771069", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9892, "ip_address": "192.213.169.184"}
+{"timestamp": "2026-05-12T01:41:01.772724", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2434, "ip_address": "29.116.54.70"}
+{"timestamp": "2026-05-12T01:41:03.775457", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2655, "ip_address": "122.166.108.120"}
+{"timestamp": "2026-05-12T01:41:05.779091", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7482, "ip_address": "216.36.60.146"}
+{"timestamp": "2026-05-12T01:41:07.782896", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9871, "ip_address": "10.19.193.144"}
+{"timestamp": "2026-05-12T01:41:09.785812", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 8315, "ip_address": "141.151.54.84"}
+{"timestamp": "2026-05-12T01:41:11.788583", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 7014, "ip_address": "76.114.23.175"}
+{"timestamp": "2026-05-12T01:41:13.789985", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 4128, "ip_address": "159.101.30.166"}
+{"timestamp": "2026-05-12T01:41:15.792889", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9841, "ip_address": "212.222.87.226"}
+{"timestamp": "2026-05-12T01:41:17.795304", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5807, "ip_address": "91.79.7.53"}
+{"timestamp": "2026-05-12T01:41:19.797691", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5229, "ip_address": "190.169.42.62"}
+{"timestamp": "2026-05-12T01:41:21.799076", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8515, "ip_address": "53.43.135.213"}
+{"timestamp": "2026-05-12T01:41:23.801078", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 6828, "ip_address": "137.191.161.213"}
+{"timestamp": "2026-05-12T01:41:25.803096", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2409, "ip_address": "145.247.20.32"}
+{"timestamp": "2026-05-12T01:41:27.805165", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1751, "ip_address": "219.18.0.89"}
+{"timestamp": "2026-05-12T01:41:29.806665", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1883, "ip_address": "18.127.190.84"}
+{"timestamp": "2026-05-12T01:41:31.808449", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2961, "ip_address": "193.223.248.49"}
+{"timestamp": "2026-05-12T01:41:33.815707", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3043, "ip_address": "11.209.96.55"}
+{"timestamp": "2026-05-12T01:41:35.820767", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1588, "ip_address": "101.124.164.16"}
+{"timestamp": "2026-05-12T01:41:37.824896", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7969, "ip_address": "201.64.89.28"}
+{"timestamp": "2026-05-12T01:41:39.829081", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5370, "ip_address": "24.215.15.29"}
+{"timestamp": "2026-05-12T01:41:41.832228", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7248, "ip_address": "153.110.11.122"}
+{"timestamp": "2026-05-12T01:41:43.835876", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 3104, "ip_address": "132.85.219.49"}
+{"timestamp": "2026-05-12T01:41:45.838732", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4726, "ip_address": "95.213.80.229"}
+{"timestamp": "2026-05-12T01:41:47.839572", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6929, "ip_address": "92.131.12.21"}
+{"timestamp": "2026-05-12T01:41:49.842030", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4401, "ip_address": "85.183.114.166"}
+{"timestamp": "2026-05-12T01:41:51.845973", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6693, "ip_address": "141.11.246.251"}
+{"timestamp": "2026-05-12T01:41:53.848237", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1755, "ip_address": "167.51.65.9"}
+{"timestamp": "2026-05-12T01:41:55.854009", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1671, "ip_address": "89.239.17.126"}
+{"timestamp": "2026-05-12T01:41:57.855927", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 8060, "ip_address": "210.195.249.255"}
+{"timestamp": "2026-05-12T01:41:59.858904", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4882, "ip_address": "109.245.135.254"}
+{"timestamp": "2026-05-12T01:42:01.860552", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 7566, "ip_address": "111.101.173.40"}
+{"timestamp": "2026-05-12T01:42:03.863122", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 4475, "ip_address": "122.55.125.6"}
+{"timestamp": "2026-05-12T01:42:05.865065", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 7216, "ip_address": "134.161.53.96"}
+{"timestamp": "2026-05-12T01:42:07.872101", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 5851, "ip_address": "108.151.176.116"}
+{"timestamp": "2026-05-12T01:42:09.874043", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4249, "ip_address": "91.55.198.222"}
+{"timestamp": "2026-05-12T01:42:11.877527", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8963, "ip_address": "215.193.105.58"}
+{"timestamp": "2026-05-12T01:42:13.880270", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4470, "ip_address": "216.98.147.158"}
+{"timestamp": "2026-05-12T01:42:15.882004", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6428, "ip_address": "22.241.87.57"}
+{"timestamp": "2026-05-12T01:42:17.885169", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2656, "ip_address": "166.165.152.147"}
+{"timestamp": "2026-05-12T01:42:19.887794", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 7378, "ip_address": "113.64.162.86"}
+{"timestamp": "2026-05-12T01:42:21.890770", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8956, "ip_address": "74.158.90.187"}
+{"timestamp": "2026-05-12T01:42:23.893036", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 3511, "ip_address": "168.4.254.236"}
+{"timestamp": "2026-05-12T01:42:25.894990", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2562, "ip_address": "186.193.186.134"}
+{"timestamp": "2026-05-12T01:42:27.897842", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2211, "ip_address": "201.101.252.116"}
+{"timestamp": "2026-05-12T01:42:29.899337", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 4634, "ip_address": "151.119.146.100"}
+{"timestamp": "2026-05-12T01:42:31.902170", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1078, "ip_address": "31.177.67.186"}
+{"timestamp": "2026-05-12T01:42:33.904832", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9549, "ip_address": "113.200.30.1"}
+{"timestamp": "2026-05-12T01:42:35.911483", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9599, "ip_address": "158.170.5.21"}
+{"timestamp": "2026-05-12T01:42:37.914889", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 5489, "ip_address": "179.205.99.18"}
+{"timestamp": "2026-05-12T01:42:39.918853", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6198, "ip_address": "150.184.22.72"}
+{"timestamp": "2026-05-12T01:42:41.921038", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5884, "ip_address": "180.221.15.160"}
+{"timestamp": "2026-05-12T01:42:43.923976", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 5954, "ip_address": "213.121.255.208"}
+{"timestamp": "2026-05-12T01:42:45.926845", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 8050, "ip_address": "100.174.135.91"}
+{"timestamp": "2026-05-12T01:42:47.929219", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6546, "ip_address": "138.240.18.253"}
+{"timestamp": "2026-05-12T01:42:49.932600", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 8938, "ip_address": "151.76.99.104"}
+{"timestamp": "2026-05-12T01:42:51.935420", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2184, "ip_address": "9.111.107.188"}
+{"timestamp": "2026-05-12T01:42:53.936834", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4446, "ip_address": "163.143.133.168"}
+{"timestamp": "2026-05-12T01:42:55.941329", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4124, "ip_address": "161.27.189.181"}
+{"timestamp": "2026-05-12T01:42:57.943780", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5349, "ip_address": "192.73.93.201"}
+{"timestamp": "2026-05-12T01:42:59.946687", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9012, "ip_address": "117.90.36.196"}
+{"timestamp": "2026-05-12T01:43:01.952666", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 2834, "ip_address": "154.149.67.93"}
+{"timestamp": "2026-05-12T01:43:03.954553", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 2561, "ip_address": "101.210.169.163"}
+{"timestamp": "2026-05-12T01:43:05.956729", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8477, "ip_address": "85.163.29.81"}
+{"timestamp": "2026-05-12T01:43:07.960814", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9138, "ip_address": "64.250.234.253"}
+{"timestamp": "2026-05-12T01:43:09.963852", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 1661, "ip_address": "93.21.159.134"}
+{"timestamp": "2026-05-12T01:43:11.967416", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 4676, "ip_address": "211.67.234.123"}
+{"timestamp": "2026-05-12T01:43:13.970063", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 3766, "ip_address": "207.160.21.253"}
+{"timestamp": "2026-05-12T01:43:15.972792", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1896, "ip_address": "123.251.182.43"}
+{"timestamp": "2026-05-12T01:43:17.974741", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 5211, "ip_address": "176.174.240.243"}
+{"timestamp": "2026-05-12T01:43:19.976717", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8451, "ip_address": "57.11.74.226"}
+{"timestamp": "2026-05-12T01:43:21.979934", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 6073, "ip_address": "55.248.173.251"}
+{"timestamp": "2026-05-12T01:43:23.984288", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 9659, "ip_address": "48.3.103.68"}
+{"timestamp": "2026-05-12T01:43:25.986678", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9784, "ip_address": "144.1.150.97"}
+{"timestamp": "2026-05-12T01:43:27.991102", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 4684, "ip_address": "145.141.215.56"}
+{"timestamp": "2026-05-12T01:43:29.992670", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4368, "ip_address": "144.97.151.35"}
+{"timestamp": "2026-05-12T01:43:31.995131", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7299, "ip_address": "121.165.112.212"}
+{"timestamp": "2026-05-12T01:43:33.999682", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9774, "ip_address": "209.152.75.117"}
+{"timestamp": "2026-05-12T01:43:36.001949", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7795, "ip_address": "160.243.195.129"}
+{"timestamp": "2026-05-12T01:43:38.004072", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6541, "ip_address": "123.9.183.146"}
+{"timestamp": "2026-05-12T01:43:40.006811", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5984, "ip_address": "60.116.142.81"}
+{"timestamp": "2026-05-12T01:43:42.009819", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4433, "ip_address": "66.78.30.245"}
+{"timestamp": "2026-05-12T01:43:44.013592", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9233, "ip_address": "76.139.134.141"}
+{"timestamp": "2026-05-12T01:43:46.016860", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3274, "ip_address": "34.59.110.49"}
+{"timestamp": "2026-05-12T01:43:48.018817", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8847, "ip_address": "40.134.174.112"}
+{"timestamp": "2026-05-12T01:43:50.021293", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8080, "ip_address": "7.111.158.27"}
+{"timestamp": "2026-05-12T01:43:52.026472", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 9363, "ip_address": "175.121.167.7"}
+{"timestamp": "2026-05-12T01:43:54.033811", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 5024, "ip_address": "78.90.149.244"}
+{"timestamp": "2026-05-12T01:43:56.038478", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2433, "ip_address": "144.119.200.13"}
+{"timestamp": "2026-05-12T01:43:58.041688", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 8869, "ip_address": "78.251.128.145"}
+{"timestamp": "2026-05-12T01:44:00.045137", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7939, "ip_address": "198.24.216.31"}
+{"timestamp": "2026-05-12T01:44:02.047623", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5254, "ip_address": "52.19.53.60"}
+{"timestamp": "2026-05-12T01:44:04.049327", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3594, "ip_address": "195.21.215.249"}
+{"timestamp": "2026-05-12T01:44:06.051115", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 1046, "ip_address": "220.34.43.104"}
+{"timestamp": "2026-05-12T01:44:08.054062", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8064, "ip_address": "23.14.78.28"}
+{"timestamp": "2026-05-12T01:44:10.056601", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 4044, "ip_address": "21.231.94.240"}
+{"timestamp": "2026-05-12T01:44:12.061434", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7948, "ip_address": "153.74.136.7"}
+{"timestamp": "2026-05-12T01:44:14.066053", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 9347, "ip_address": "21.66.193.17"}
+{"timestamp": "2026-05-12T01:44:16.070998", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9070, "ip_address": "73.36.205.179"}
+{"timestamp": "2026-05-12T01:44:18.075109", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3674, "ip_address": "131.159.217.77"}
+{"timestamp": "2026-05-12T01:44:20.078147", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4576, "ip_address": "116.173.128.159"}
+{"timestamp": "2026-05-12T01:44:22.080615", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6013, "ip_address": "6.29.91.173"}
+{"timestamp": "2026-05-12T01:44:24.083460", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7922, "ip_address": "111.131.201.86"}
+{"timestamp": "2026-05-12T01:44:26.085569", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7704, "ip_address": "108.170.111.131"}
+{"timestamp": "2026-05-12T01:44:28.086453", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7267, "ip_address": "69.59.205.249"}
+{"timestamp": "2026-05-12T01:44:30.087467", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8492, "ip_address": "28.135.49.108"}
+{"timestamp": "2026-05-12T01:44:32.089693", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9915, "ip_address": "38.208.70.177"}
+{"timestamp": "2026-05-12T01:44:34.095384", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1354, "ip_address": "106.200.148.175"}
+{"timestamp": "2026-05-12T01:44:36.101586", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 4288, "ip_address": "44.19.176.67"}
+{"timestamp": "2026-05-12T01:44:38.102522", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 8645, "ip_address": "43.57.249.222"}
+{"timestamp": "2026-05-12T01:44:40.106691", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 1609, "ip_address": "81.255.15.70"}
+{"timestamp": "2026-05-12T01:44:42.113232", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6847, "ip_address": "52.58.60.77"}
+{"timestamp": "2026-05-12T01:44:44.115645", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1079, "ip_address": "46.156.235.99"}
+{"timestamp": "2026-05-12T01:44:46.123370", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 2206, "ip_address": "73.242.195.226"}
+{"timestamp": "2026-05-12T01:44:48.125085", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5645, "ip_address": "112.240.170.149"}
+{"timestamp": "2026-05-12T01:44:50.128410", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6138, "ip_address": "191.227.172.21"}
+{"timestamp": "2026-05-12T01:44:52.130894", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9327, "ip_address": "99.52.115.202"}
+{"timestamp": "2026-05-12T01:44:54.133917", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 3777, "ip_address": "33.87.237.48"}
+{"timestamp": "2026-05-12T01:44:56.135787", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1069, "ip_address": "213.102.252.164"}
+{"timestamp": "2026-05-12T01:44:58.138952", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3145, "ip_address": "17.186.91.150"}
+{"timestamp": "2026-05-12T01:45:00.140926", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1136, "ip_address": "200.167.154.241"}
+{"timestamp": "2026-05-12T01:45:02.143116", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 4712, "ip_address": "212.19.167.200"}
+{"timestamp": "2026-05-12T01:45:04.149890", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 3925, "ip_address": "218.61.1.33"}
+{"timestamp": "2026-05-12T01:45:06.151722", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8122, "ip_address": "135.236.112.17"}
+{"timestamp": "2026-05-12T01:45:08.154439", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 4255, "ip_address": "72.68.134.105"}
+{"timestamp": "2026-05-12T01:45:10.157804", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 3450, "ip_address": "24.82.163.39"}
+{"timestamp": "2026-05-12T01:45:12.160210", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8833, "ip_address": "34.72.67.164"}
+{"timestamp": "2026-05-12T01:45:14.161912", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8022, "ip_address": "34.95.23.122"}
+{"timestamp": "2026-05-12T01:45:16.163723", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6948, "ip_address": "107.82.164.48"}
+{"timestamp": "2026-05-12T01:45:18.166112", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7790, "ip_address": "47.126.202.68"}
+{"timestamp": "2026-05-12T01:45:20.169069", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1237, "ip_address": "96.242.211.38"}
+{"timestamp": "2026-05-12T01:45:22.172732", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3170, "ip_address": "73.148.114.113"}
+{"timestamp": "2026-05-12T01:45:24.177252", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6712, "ip_address": "174.110.188.235"}
+{"timestamp": "2026-05-12T01:45:26.181271", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 2870, "ip_address": "85.184.12.70"}
+{"timestamp": "2026-05-12T01:45:28.184956", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 9934, "ip_address": "149.95.223.185"}
+{"timestamp": "2026-05-12T01:45:30.187111", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6384, "ip_address": "115.19.203.164"}
+{"timestamp": "2026-05-12T01:45:32.188804", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 3767, "ip_address": "87.231.205.150"}
+{"timestamp": "2026-05-12T01:45:34.191909", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 5079, "ip_address": "124.168.67.108"}
+{"timestamp": "2026-05-12T01:45:36.193942", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2631, "ip_address": "27.65.34.29"}
+{"timestamp": "2026-05-12T01:45:38.195935", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3213, "ip_address": "177.112.21.52"}
+{"timestamp": "2026-05-12T01:45:40.197721", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5585, "ip_address": "61.17.177.199"}
+{"timestamp": "2026-05-12T01:45:42.199761", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2452, "ip_address": "49.43.57.213"}
+{"timestamp": "2026-05-12T01:45:44.201837", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5807, "ip_address": "154.152.179.3"}
+{"timestamp": "2026-05-12T01:45:46.203718", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8767, "ip_address": "169.219.35.60"}
+{"timestamp": "2026-05-12T01:45:48.205614", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7964, "ip_address": "201.7.157.183"}
+{"timestamp": "2026-05-12T01:45:50.207599", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5325, "ip_address": "190.186.76.92"}
+{"timestamp": "2026-05-12T01:45:52.209586", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2362, "ip_address": "196.250.211.13"}
+{"timestamp": "2026-05-12T01:45:54.211608", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 5689, "ip_address": "72.39.16.245"}
+{"timestamp": "2026-05-12T01:45:56.214620", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1642, "ip_address": "197.169.193.126"}
+{"timestamp": "2026-05-12T01:45:58.216610", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 5335, "ip_address": "58.81.122.168"}
+{"timestamp": "2026-05-12T01:46:00.219294", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 5930, "ip_address": "41.230.224.53"}
+{"timestamp": "2026-05-12T01:46:02.221619", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 4281, "ip_address": "73.170.168.133"}
+{"timestamp": "2026-05-12T01:46:04.223700", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6558, "ip_address": "12.114.226.136"}
+{"timestamp": "2026-05-12T01:46:06.225604", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3967, "ip_address": "181.255.235.11"}
+{"timestamp": "2026-05-12T01:46:08.227576", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 2307, "ip_address": "67.99.250.242"}
+{"timestamp": "2026-05-12T01:46:10.229603", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 3884, "ip_address": "130.183.205.197"}
+{"timestamp": "2026-05-12T01:46:12.232231", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 6600, "ip_address": "87.80.234.131"}
+{"timestamp": "2026-05-12T01:46:14.234667", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7259, "ip_address": "183.254.9.253"}
+{"timestamp": "2026-05-12T01:46:16.237892", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7594, "ip_address": "207.45.217.79"}
+{"timestamp": "2026-05-12T01:46:18.239831", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3700, "ip_address": "156.95.97.30"}
+{"timestamp": "2026-05-12T01:46:20.243193", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 3314, "ip_address": "21.80.189.37"}
+{"timestamp": "2026-05-12T01:46:22.246937", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 4917, "ip_address": "211.94.172.76"}
+{"timestamp": "2026-05-12T01:46:24.250097", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 5216, "ip_address": "84.83.65.241"}
+{"timestamp": "2026-05-12T01:46:26.254405", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4879, "ip_address": "125.101.170.44"}
+{"timestamp": "2026-05-12T01:46:28.257293", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 7170, "ip_address": "34.137.82.1"}
+{"timestamp": "2026-05-12T01:46:30.260672", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1922, "ip_address": "43.213.248.38"}
+{"timestamp": "2026-05-12T01:46:32.263245", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 8853, "ip_address": "107.13.181.127"}
+{"timestamp": "2026-05-12T01:46:34.265372", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9223, "ip_address": "40.86.158.235"}
+{"timestamp": "2026-05-12T01:46:36.267759", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7567, "ip_address": "150.124.22.219"}
+{"timestamp": "2026-05-12T01:46:38.273986", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6780, "ip_address": "85.35.166.173"}
+{"timestamp": "2026-05-12T01:46:40.277991", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5070, "ip_address": "25.217.119.145"}
+{"timestamp": "2026-05-12T01:46:42.279579", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1734, "ip_address": "101.174.207.81"}
+{"timestamp": "2026-05-12T01:46:44.282487", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 5718, "ip_address": "217.199.92.52"}
+{"timestamp": "2026-05-12T01:46:46.284463", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9791, "ip_address": "115.206.251.35"}
+{"timestamp": "2026-05-12T01:46:48.288147", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7849, "ip_address": "121.41.94.38"}
+{"timestamp": "2026-05-12T01:46:50.293050", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 2786, "ip_address": "145.150.142.38"}
+{"timestamp": "2026-05-12T01:46:52.294853", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6639, "ip_address": "187.141.131.90"}
+{"timestamp": "2026-05-12T01:46:54.297013", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 3374, "ip_address": "196.71.158.112"}
+{"timestamp": "2026-05-12T01:46:56.300423", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8235, "ip_address": "108.194.176.192"}
+{"timestamp": "2026-05-12T01:46:58.305127", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 4502, "ip_address": "222.75.130.232"}
+{"timestamp": "2026-05-12T01:47:00.307403", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2306, "ip_address": "216.36.24.6"}
+{"timestamp": "2026-05-12T01:47:02.308776", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2738, "ip_address": "106.167.227.69"}
+{"timestamp": "2026-05-12T01:47:04.310739", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 2239, "ip_address": "179.9.141.241"}
+{"timestamp": "2026-05-12T01:47:06.314599", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 4924, "ip_address": "165.105.39.159"}
+{"timestamp": "2026-05-12T01:47:08.316683", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9436, "ip_address": "215.156.113.135"}
+{"timestamp": "2026-05-12T01:47:10.318693", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1942, "ip_address": "157.73.250.54"}
+{"timestamp": "2026-05-12T01:47:12.320897", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4663, "ip_address": "153.123.128.243"}
+{"timestamp": "2026-05-12T01:47:14.322729", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 3295, "ip_address": "104.77.175.29"}
+{"timestamp": "2026-05-12T01:47:16.324845", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1663, "ip_address": "1.99.124.54"}
+{"timestamp": "2026-05-12T01:47:18.326684", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6794, "ip_address": "152.222.11.57"}
+{"timestamp": "2026-05-12T01:47:20.329219", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7526, "ip_address": "66.47.233.140"}
+{"timestamp": "2026-05-12T01:47:22.330707", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9705, "ip_address": "120.213.217.53"}
+{"timestamp": "2026-05-12T01:47:24.333537", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9375, "ip_address": "3.94.236.242"}
+{"timestamp": "2026-05-12T01:47:26.340248", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6808, "ip_address": "97.165.208.159"}
+{"timestamp": "2026-05-12T01:47:28.343706", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4649, "ip_address": "20.46.186.50"}
+{"timestamp": "2026-05-12T01:47:30.347062", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2256, "ip_address": "97.96.58.46"}
+{"timestamp": "2026-05-12T01:47:32.351001", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4014, "ip_address": "3.203.152.2"}
+{"timestamp": "2026-05-12T01:47:34.352514", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2705, "ip_address": "119.24.230.205"}
+{"timestamp": "2026-05-12T01:47:36.354598", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 4193, "ip_address": "85.6.15.167"}
+{"timestamp": "2026-05-12T01:47:38.356741", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2670, "ip_address": "162.160.178.102"}
+{"timestamp": "2026-05-12T01:47:40.358879", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 8863, "ip_address": "116.237.139.57"}
+{"timestamp": "2026-05-12T01:47:42.360753", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 4757, "ip_address": "89.165.23.253"}
+{"timestamp": "2026-05-12T01:47:44.363052", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 3279, "ip_address": "87.2.76.165"}
+{"timestamp": "2026-05-12T01:47:46.364939", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2842, "ip_address": "3.125.69.18"}
+{"timestamp": "2026-05-12T01:47:48.367643", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 6114, "ip_address": "66.10.101.215"}
+{"timestamp": "2026-05-12T01:47:50.369798", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 7432, "ip_address": "49.144.97.157"}
+{"timestamp": "2026-05-12T01:47:52.373038", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8007, "ip_address": "62.11.237.130"}
+{"timestamp": "2026-05-12T01:47:54.375931", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 8271, "ip_address": "123.32.104.197"}
+{"timestamp": "2026-05-12T01:47:56.378416", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 8769, "ip_address": "40.243.242.245"}
+{"timestamp": "2026-05-12T01:47:58.382879", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8863, "ip_address": "68.181.82.35"}
+{"timestamp": "2026-05-12T01:48:00.386745", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9513, "ip_address": "11.26.140.70"}
+{"timestamp": "2026-05-12T01:48:02.390235", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 6169, "ip_address": "134.192.183.211"}
+{"timestamp": "2026-05-12T01:48:04.394258", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4198, "ip_address": "135.165.135.1"}
+{"timestamp": "2026-05-12T01:48:06.396130", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8806, "ip_address": "134.74.38.141"}
+{"timestamp": "2026-05-12T01:48:08.399749", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 9001, "ip_address": "65.225.107.121"}
+{"timestamp": "2026-05-12T01:48:10.402290", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 6550, "ip_address": "80.77.102.172"}
+{"timestamp": "2026-05-12T01:48:12.406733", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 6814, "ip_address": "112.188.45.35"}
+{"timestamp": "2026-05-12T01:48:14.412462", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 1593, "ip_address": "51.240.93.148"}
+{"timestamp": "2026-05-12T01:48:16.413816", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4460, "ip_address": "88.145.132.41"}
+{"timestamp": "2026-05-12T01:48:18.419813", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8242, "ip_address": "45.226.162.246"}
+{"timestamp": "2026-05-12T01:48:20.423203", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1092, "ip_address": "218.180.40.58"}
+{"timestamp": "2026-05-12T01:48:22.427155", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6790, "ip_address": "110.166.54.77"}
+{"timestamp": "2026-05-12T01:48:24.431362", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 9104, "ip_address": "131.90.121.84"}
+{"timestamp": "2026-05-12T01:48:26.435003", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 9362, "ip_address": "43.93.255.38"}
+{"timestamp": "2026-05-12T01:48:28.437217", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1440, "ip_address": "207.2.44.38"}
+{"timestamp": "2026-05-12T01:48:30.439553", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8894, "ip_address": "215.75.219.147"}
+{"timestamp": "2026-05-12T01:48:32.445531", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 8895, "ip_address": "104.60.222.158"}
+{"timestamp": "2026-05-12T01:48:34.450053", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3822, "ip_address": "40.142.11.93"}
+{"timestamp": "2026-05-12T01:48:36.453425", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3189, "ip_address": "74.239.4.135"}
+{"timestamp": "2026-05-12T01:48:38.458544", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 3992, "ip_address": "97.20.58.97"}
+{"timestamp": "2026-05-12T01:48:40.463079", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 9575, "ip_address": "34.169.153.23"}
+{"timestamp": "2026-05-12T01:48:42.467293", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4156, "ip_address": "65.50.155.207"}
+{"timestamp": "2026-05-12T01:48:44.469204", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9446, "ip_address": "29.197.250.206"}
+{"timestamp": "2026-05-12T01:48:46.472245", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 2958, "ip_address": "67.171.48.226"}
+{"timestamp": "2026-05-12T01:48:48.474751", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1544, "ip_address": "178.134.113.144"}
+{"timestamp": "2026-05-12T01:48:50.481063", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7981, "ip_address": "145.213.179.27"}
+{"timestamp": "2026-05-12T01:48:52.485075", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 9636, "ip_address": "184.219.179.44"}
+{"timestamp": "2026-05-12T01:48:54.489025", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 2973, "ip_address": "103.38.189.83"}
+{"timestamp": "2026-05-12T01:48:56.491960", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 2669, "ip_address": "202.227.51.118"}
+{"timestamp": "2026-05-12T01:48:58.496887", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6681, "ip_address": "207.158.109.227"}
+{"timestamp": "2026-05-12T01:49:00.499430", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 3720, "ip_address": "17.191.97.80"}
+{"timestamp": "2026-05-12T01:49:02.501828", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 9000, "ip_address": "142.77.244.69"}
+{"timestamp": "2026-05-12T01:49:04.503805", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5963, "ip_address": "53.52.123.214"}
+{"timestamp": "2026-05-12T01:49:06.506656", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 5419, "ip_address": "12.145.7.176"}
+{"timestamp": "2026-05-12T01:49:08.508818", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8049, "ip_address": "64.56.153.65"}
+{"timestamp": "2026-05-12T01:49:10.511733", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 5803, "ip_address": "11.139.118.83"}
+{"timestamp": "2026-05-12T01:49:12.513882", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 5074, "ip_address": "9.9.246.144"}
+{"timestamp": "2026-05-12T01:49:14.516091", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 9639, "ip_address": "214.234.36.134"}
+{"timestamp": "2026-05-12T01:49:16.519314", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 8710, "ip_address": "151.4.253.223"}
+{"timestamp": "2026-05-12T01:49:18.521892", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8490, "ip_address": "8.10.107.140"}
+{"timestamp": "2026-05-12T01:49:20.524991", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 4997, "ip_address": "67.181.154.184"}
+{"timestamp": "2026-05-12T01:49:22.532479", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9750, "ip_address": "11.100.73.209"}
+{"timestamp": "2026-05-12T01:49:24.535108", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 8645, "ip_address": "142.140.82.255"}
+{"timestamp": "2026-05-12T01:49:26.540652", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 8799, "ip_address": "17.63.7.143"}
+{"timestamp": "2026-05-12T01:49:28.541620", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 3789, "ip_address": "153.15.169.166"}
+{"timestamp": "2026-05-12T01:49:30.543811", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 3321, "ip_address": "214.33.9.48"}
+{"timestamp": "2026-05-12T01:49:32.546445", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 2722, "ip_address": "68.43.192.15"}
+{"timestamp": "2026-05-12T01:49:34.549185", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6138, "ip_address": "104.188.29.132"}
+{"timestamp": "2026-05-12T01:49:36.551899", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 6448, "ip_address": "203.227.87.243"}
+{"timestamp": "2026-05-12T01:49:38.552579", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 5797, "ip_address": "92.8.129.103"}
+{"timestamp": "2026-05-12T01:49:40.557545", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 4436, "ip_address": "133.145.86.232"}
+{"timestamp": "2026-05-12T01:49:42.564437", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1988, "ip_address": "49.71.110.4"}
+{"timestamp": "2026-05-12T01:49:44.566644", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 5901, "ip_address": "54.14.77.246"}
+{"timestamp": "2026-05-12T01:49:46.569219", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 8877, "ip_address": "111.85.170.123"}
+{"timestamp": "2026-05-12T01:49:48.571820", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8870, "ip_address": "117.127.2.163"}
+{"timestamp": "2026-05-12T01:49:50.577275", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 5380, "ip_address": "218.125.122.236"}
+{"timestamp": "2026-05-12T01:49:52.579635", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2365, "ip_address": "77.66.181.203"}
+{"timestamp": "2026-05-12T01:49:54.582558", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6784, "ip_address": "138.18.48.67"}
+{"timestamp": "2026-05-12T01:49:56.586258", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 3862, "ip_address": "99.41.130.17"}
+{"timestamp": "2026-05-12T01:49:58.589127", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3561, "ip_address": "136.157.255.156"}
+{"timestamp": "2026-05-12T01:50:00.592891", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2172, "ip_address": "174.83.101.62"}
+{"timestamp": "2026-05-12T01:50:02.597185", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3468, "ip_address": "8.216.248.181"}
+{"timestamp": "2026-05-12T01:50:04.600893", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 6518, "ip_address": "156.205.235.69"}
+{"timestamp": "2026-05-12T01:50:06.605790", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8917, "ip_address": "204.186.2.243"}
+{"timestamp": "2026-05-12T01:50:08.611071", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 2618, "ip_address": "149.105.19.184"}
+{"timestamp": "2026-05-12T01:50:10.616516", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 2926, "ip_address": "100.155.85.175"}
+{"timestamp": "2026-05-12T01:50:12.619271", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2648, "ip_address": "201.3.93.199"}
+{"timestamp": "2026-05-12T01:50:14.624671", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 3517, "ip_address": "94.81.55.7"}
+{"timestamp": "2026-05-12T01:50:16.631193", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7116, "ip_address": "104.90.17.135"}
+{"timestamp": "2026-05-12T01:50:18.636659", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 5247, "ip_address": "131.57.232.168"}
+{"timestamp": "2026-05-12T01:50:20.639790", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2968, "ip_address": "83.45.60.75"}
+{"timestamp": "2026-05-12T01:50:22.644718", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 5343, "ip_address": "29.224.117.74"}
+{"timestamp": "2026-05-12T01:50:24.650184", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 2009, "ip_address": "155.59.99.142"}
+{"timestamp": "2026-05-12T01:50:26.653389", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4628, "ip_address": "114.238.177.42"}
+{"timestamp": "2026-05-12T01:50:28.660698", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1738, "ip_address": "153.211.20.15"}
+{"timestamp": "2026-05-12T01:50:30.665083", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3104, "ip_address": "15.110.50.77"}
+{"timestamp": "2026-05-12T01:50:32.669652", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5488, "ip_address": "85.185.116.188"}
+{"timestamp": "2026-05-12T01:50:34.674370", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 3074, "ip_address": "203.79.199.203"}
+{"timestamp": "2026-05-12T01:50:36.677100", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9305, "ip_address": "123.49.60.5"}
+{"timestamp": "2026-05-12T01:50:38.679257", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8375, "ip_address": "3.65.29.26"}
+{"timestamp": "2026-05-12T01:50:40.686693", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1047, "ip_address": "55.169.10.243"}
+{"timestamp": "2026-05-12T01:50:42.692298", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1308, "ip_address": "170.147.0.204"}
+{"timestamp": "2026-05-12T01:50:44.696271", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 5083, "ip_address": "19.10.235.152"}
+{"timestamp": "2026-05-12T01:50:46.698708", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4132, "ip_address": "157.123.21.100"}
+{"timestamp": "2026-05-12T01:50:48.701352", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3741, "ip_address": "37.194.116.183"}
+{"timestamp": "2026-05-12T01:50:50.705539", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3179, "ip_address": "195.65.49.11"}
+{"timestamp": "2026-05-12T01:50:52.709124", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8800, "ip_address": "177.40.193.238"}
+{"timestamp": "2026-05-12T01:50:54.711503", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 9996, "ip_address": "176.186.249.158"}
+{"timestamp": "2026-05-12T01:50:56.714673", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2345, "ip_address": "34.207.0.189"}
+{"timestamp": "2026-05-12T01:50:58.717116", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3854, "ip_address": "151.100.225.97"}
+{"timestamp": "2026-05-12T01:51:00.719644", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2401, "ip_address": "171.209.173.227"}
+{"timestamp": "2026-05-12T01:51:02.723753", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7373, "ip_address": "147.44.127.180"}
+{"timestamp": "2026-05-12T01:51:04.727433", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8739, "ip_address": "222.165.181.61"}
+{"timestamp": "2026-05-12T01:51:06.731885", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 6303, "ip_address": "32.30.28.32"}
+{"timestamp": "2026-05-12T01:51:08.735605", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5176, "ip_address": "160.164.65.228"}
+{"timestamp": "2026-05-12T01:51:10.741150", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4031, "ip_address": "213.166.192.222"}
+{"timestamp": "2026-05-12T01:51:12.749308", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5829, "ip_address": "5.175.116.227"}
+{"timestamp": "2026-05-12T01:51:14.756473", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 7108, "ip_address": "217.127.192.121"}
+{"timestamp": "2026-05-12T01:51:16.760675", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9432, "ip_address": "5.56.18.151"}
+{"timestamp": "2026-05-12T01:51:18.763161", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 2220, "ip_address": "177.109.40.59"}
+{"timestamp": "2026-05-12T01:51:20.769780", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 8047, "ip_address": "192.199.57.68"}
+{"timestamp": "2026-05-12T01:51:22.773769", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 1887, "ip_address": "203.206.170.158"}
+{"timestamp": "2026-05-12T01:51:24.778858", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 6574, "ip_address": "92.156.176.23"}
+{"timestamp": "2026-05-12T01:51:26.782701", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 7272, "ip_address": "72.199.92.147"}
+{"timestamp": "2026-05-12T01:51:28.786831", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8250, "ip_address": "95.2.177.224"}
+{"timestamp": "2026-05-12T01:51:30.789073", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4324, "ip_address": "152.209.121.175"}
+{"timestamp": "2026-05-12T01:51:32.790830", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3217, "ip_address": "155.76.38.251"}
+{"timestamp": "2026-05-12T01:51:34.793308", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 6480, "ip_address": "73.178.178.47"}
+{"timestamp": "2026-05-12T01:51:36.796022", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 7484, "ip_address": "110.17.224.18"}
+{"timestamp": "2026-05-12T01:51:38.797122", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3103, "ip_address": "77.1.150.193"}
+{"timestamp": "2026-05-12T01:51:40.801610", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1851, "ip_address": "64.33.249.78"}
+{"timestamp": "2026-05-12T01:51:42.804019", "service": "api-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7159, "ip_address": "117.136.252.136"}
+{"timestamp": "2026-05-12T01:51:44.806037", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9529, "ip_address": "121.196.116.138"}
+{"timestamp": "2026-05-12T01:51:46.808525", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 7512, "ip_address": "1.116.37.215"}
+{"timestamp": "2026-05-12T01:51:48.811175", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9012, "ip_address": "122.81.10.68"}
+{"timestamp": "2026-05-12T01:51:50.815618", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1889, "ip_address": "21.246.156.67"}
+{"timestamp": "2026-05-12T01:51:52.817629", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1558, "ip_address": "128.134.150.163"}
+{"timestamp": "2026-05-12T01:51:54.822066", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9671, "ip_address": "167.108.9.174"}
+{"timestamp": "2026-05-12T01:51:56.825494", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7078, "ip_address": "122.61.43.15"}
+{"timestamp": "2026-05-12T01:51:58.829582", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3907, "ip_address": "130.161.162.166"}
+{"timestamp": "2026-05-12T01:52:00.832015", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8546, "ip_address": "186.190.118.190"}
+{"timestamp": "2026-05-12T01:52:02.835225", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 2186, "ip_address": "44.146.106.238"}
+{"timestamp": "2026-05-12T01:52:04.837029", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 4580, "ip_address": "123.3.239.41"}
+{"timestamp": "2026-05-12T01:52:06.842129", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8203, "ip_address": "187.116.73.84"}
+{"timestamp": "2026-05-12T01:52:08.844984", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2517, "ip_address": "75.108.74.166"}
+{"timestamp": "2026-05-12T01:52:10.848112", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4202, "ip_address": "98.84.108.98"}
+{"timestamp": "2026-05-12T01:52:12.850624", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 2431, "ip_address": "116.164.50.244"}
+{"timestamp": "2026-05-12T01:52:14.852967", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 8658, "ip_address": "39.58.121.122"}
+{"timestamp": "2026-05-12T01:52:16.856104", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 8235, "ip_address": "54.174.250.146"}
+{"timestamp": "2026-05-12T01:52:18.857734", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 2285, "ip_address": "220.18.174.237"}
+{"timestamp": "2026-05-12T01:52:20.860941", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 8185, "ip_address": "25.195.231.101"}
+{"timestamp": "2026-05-12T01:52:22.863910", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 7953, "ip_address": "14.164.18.19"}
+{"timestamp": "2026-05-12T01:52:24.868288", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6391, "ip_address": "23.184.180.193"}
+{"timestamp": "2026-05-12T01:52:26.872669", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9176, "ip_address": "29.142.124.145"}
+{"timestamp": "2026-05-12T01:52:28.873717", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4026, "ip_address": "58.232.202.3"}
+{"timestamp": "2026-05-12T01:52:30.876063", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 2449, "ip_address": "156.142.130.0"}
+{"timestamp": "2026-05-12T01:52:32.878860", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4964, "ip_address": "115.29.7.35"}
+{"timestamp": "2026-05-12T01:52:34.881836", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 7576, "ip_address": "35.250.41.249"}
+{"timestamp": "2026-05-12T01:52:36.883342", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4124, "ip_address": "170.73.123.177"}
+{"timestamp": "2026-05-12T01:52:38.887164", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 6778, "ip_address": "112.30.181.17"}
+{"timestamp": "2026-05-12T01:52:40.889123", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3435, "ip_address": "32.143.36.50"}
+{"timestamp": "2026-05-12T01:52:42.893259", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9061, "ip_address": "91.211.20.105"}
+{"timestamp": "2026-05-12T01:52:44.895516", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2696, "ip_address": "92.101.204.86"}
+{"timestamp": "2026-05-12T01:52:46.899064", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3324, "ip_address": "177.170.0.37"}
+{"timestamp": "2026-05-12T01:52:48.900489", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 2789, "ip_address": "132.196.118.242"}
+{"timestamp": "2026-05-12T01:52:50.903027", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 3663, "ip_address": "192.175.158.59"}
+{"timestamp": "2026-05-12T01:52:52.905626", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 7091, "ip_address": "98.238.85.22"}
+{"timestamp": "2026-05-12T01:52:54.908270", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 1904, "ip_address": "178.237.110.1"}
+{"timestamp": "2026-05-12T01:52:56.909838", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7363, "ip_address": "124.252.209.65"}
+{"timestamp": "2026-05-12T01:52:58.911382", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 7557, "ip_address": "32.32.32.25"}
+{"timestamp": "2026-05-12T01:53:00.913476", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7954, "ip_address": "156.1.242.245"}
+{"timestamp": "2026-05-12T01:53:02.915861", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7137, "ip_address": "102.250.68.7"}
+{"timestamp": "2026-05-12T01:53:04.917441", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 1500, "ip_address": "29.4.203.183"}
+{"timestamp": "2026-05-12T01:53:06.924083", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 8915, "ip_address": "209.165.167.4"}
+{"timestamp": "2026-05-12T01:53:08.925704", "service": "payment-service", "level": "ERROR", "message": "Database timeout", "user_id": 7940, "ip_address": "87.178.133.68"}
+{"timestamp": "2026-05-12T01:53:10.926834", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 1288, "ip_address": "157.198.39.116"}
+{"timestamp": "2026-05-12T01:53:12.928659", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 2454, "ip_address": "204.196.8.163"}
+{"timestamp": "2026-05-12T01:53:14.931956", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 9417, "ip_address": "65.255.226.151"}
+{"timestamp": "2026-05-12T01:53:16.933890", "service": "api-service", "level": "WARNING", "message": "Slow API response", "user_id": 7981, "ip_address": "196.6.47.132"}
+{"timestamp": "2026-05-12T01:53:18.935969", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 6341, "ip_address": "124.58.140.253"}
+{"timestamp": "2026-05-12T01:53:20.940768", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7866, "ip_address": "141.31.159.224"}
+{"timestamp": "2026-05-12T01:53:22.947511", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 9720, "ip_address": "184.109.221.64"}
+{"timestamp": "2026-05-12T01:53:24.949023", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 5722, "ip_address": "168.137.65.113"}
+{"timestamp": "2026-05-12T01:53:26.951465", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 8365, "ip_address": "100.50.230.238"}
+{"timestamp": "2026-05-12T01:53:28.952926", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2212, "ip_address": "59.241.157.76"}
+{"timestamp": "2026-05-12T01:53:30.955277", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 6080, "ip_address": "170.152.10.95"}
+{"timestamp": "2026-05-12T01:53:32.958105", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 8295, "ip_address": "8.214.159.247"}
+{"timestamp": "2026-05-12T01:53:34.963481", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4514, "ip_address": "116.190.43.29"}
+{"timestamp": "2026-05-12T01:53:36.966118", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 2889, "ip_address": "170.251.99.159"}
+{"timestamp": "2026-05-12T01:53:38.970227", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 1895, "ip_address": "149.76.71.52"}
+{"timestamp": "2026-05-12T01:53:40.977470", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 7843, "ip_address": "103.127.110.94"}
+{"timestamp": "2026-05-12T01:53:42.978927", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 9966, "ip_address": "140.98.179.206"}
+{"timestamp": "2026-05-12T01:53:44.980304", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 2401, "ip_address": "129.216.246.101"}
+{"timestamp": "2026-05-12T01:53:46.981989", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 4553, "ip_address": "139.80.65.237"}
+{"timestamp": "2026-05-12T01:53:48.984889", "service": "auth-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3123, "ip_address": "68.124.26.45"}
+{"timestamp": "2026-05-12T01:53:50.987228", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 7425, "ip_address": "213.222.72.38"}
+{"timestamp": "2026-05-12T01:53:52.989536", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 8999, "ip_address": "173.49.207.64"}
+{"timestamp": "2026-05-12T01:53:54.992416", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 7069, "ip_address": "33.246.99.221"}
+{"timestamp": "2026-05-12T01:53:56.994311", "service": "payment-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 3978, "ip_address": "71.49.194.248"}
+{"timestamp": "2026-05-12T01:53:58.996382", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1703, "ip_address": "176.15.187.31"}
+{"timestamp": "2026-05-12T01:54:00.999661", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 3277, "ip_address": "1.190.148.205"}
+{"timestamp": "2026-05-12T01:54:03.002855", "service": "api-service", "level": "WARNING", "message": "High memory usage detected", "user_id": 6313, "ip_address": "81.16.142.29"}
+{"timestamp": "2026-05-12T01:54:05.005511", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 5290, "ip_address": "60.148.207.20"}
+{"timestamp": "2026-05-12T01:54:07.008891", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 6042, "ip_address": "14.250.50.214"}
+{"timestamp": "2026-05-12T01:54:09.010593", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 8579, "ip_address": "175.7.111.60"}
+{"timestamp": "2026-05-12T01:54:11.013534", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4278, "ip_address": "74.228.16.65"}
+{"timestamp": "2026-05-12T01:54:13.016523", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4545, "ip_address": "84.219.110.175"}
+{"timestamp": "2026-05-12T01:54:15.018751", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 3181, "ip_address": "68.176.235.92"}
+{"timestamp": "2026-05-12T01:54:17.021485", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 6466, "ip_address": "41.64.251.40"}
+{"timestamp": "2026-05-12T01:54:19.026606", "service": "auth-service", "level": "INFO", "message": "User authenticated", "user_id": 5062, "ip_address": "188.128.155.242"}
+{"timestamp": "2026-05-12T01:54:21.029762", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 1539, "ip_address": "32.11.57.16"}
+{"timestamp": "2026-05-12T01:54:23.033411", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 1243, "ip_address": "215.110.120.91"}
+{"timestamp": "2026-05-12T01:54:25.035635", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6977, "ip_address": "209.87.17.153"}
+{"timestamp": "2026-05-12T01:54:27.040267", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 8734, "ip_address": "110.90.23.215"}
+{"timestamp": "2026-05-12T01:54:29.043139", "service": "iot-gateway", "level": "INFO", "message": "Telemetry data received", "user_id": 1502, "ip_address": "177.75.74.26"}
+{"timestamp": "2026-05-12T01:54:31.045807", "service": "auth-service", "level": "ERROR", "message": "Database timeout", "user_id": 9382, "ip_address": "221.0.249.61"}
+{"timestamp": "2026-05-12T01:54:33.048253", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 5133, "ip_address": "97.229.214.220"}
+{"timestamp": "2026-05-12T01:54:35.050699", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 3149, "ip_address": "65.174.117.181"}
+{"timestamp": "2026-05-12T01:54:37.054185", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 8624, "ip_address": "54.176.37.117"}
+{"timestamp": "2026-05-12T01:54:39.067894", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 5153, "ip_address": "217.228.201.104"}
+{"timestamp": "2026-05-12T01:54:41.072751", "service": "iot-gateway", "level": "WARNING", "message": "Slow API response", "user_id": 9706, "ip_address": "159.150.48.23"}
+{"timestamp": "2026-05-12T01:54:43.074414", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 2936, "ip_address": "81.138.243.74"}
+{"timestamp": "2026-05-12T01:54:45.076329", "service": "api-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6776, "ip_address": "20.1.91.87"}
+{"timestamp": "2026-05-12T01:54:47.077124", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 7895, "ip_address": "56.176.214.64"}
+{"timestamp": "2026-05-12T01:54:49.079900", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 7974, "ip_address": "55.5.169.211"}
+{"timestamp": "2026-05-12T01:54:51.084719", "service": "iot-gateway", "level": "WARNING", "message": "High memory usage detected", "user_id": 9014, "ip_address": "57.251.9.101"}
+{"timestamp": "2026-05-12T01:54:53.087122", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8494, "ip_address": "193.39.249.220"}
+{"timestamp": "2026-05-12T01:54:55.091781", "service": "api-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8102, "ip_address": "31.193.246.103"}
+{"timestamp": "2026-05-12T01:54:57.095067", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 4362, "ip_address": "11.124.126.235"}
+{"timestamp": "2026-05-12T01:54:59.099690", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 3355, "ip_address": "174.30.13.159"}
+{"timestamp": "2026-05-12T01:55:01.101411", "service": "payment-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 4195, "ip_address": "70.89.165.219"}
+{"timestamp": "2026-05-12T01:55:03.103203", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 4849, "ip_address": "140.32.92.5"}
+{"timestamp": "2026-05-12T01:55:05.106277", "service": "iot-gateway", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 6825, "ip_address": "160.228.145.85"}
+{"timestamp": "2026-05-12T01:55:07.108209", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 3940, "ip_address": "70.67.125.168"}
+{"timestamp": "2026-05-12T01:55:09.110312", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 7771, "ip_address": "107.51.50.32"}
+{"timestamp": "2026-05-12T01:55:11.112247", "service": "iot-gateway", "level": "ERROR", "message": "Unhandled application exception", "user_id": 7260, "ip_address": "218.36.198.115"}
+{"timestamp": "2026-05-12T01:55:13.114560", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 2012, "ip_address": "110.112.100.190"}
+{"timestamp": "2026-05-12T01:55:15.118080", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 5619, "ip_address": "185.247.22.209"}
+{"timestamp": "2026-05-12T01:55:17.120459", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 8398, "ip_address": "66.199.170.97"}
+{"timestamp": "2026-05-12T01:55:19.121913", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 3983, "ip_address": "34.148.46.108"}
+{"timestamp": "2026-05-12T01:55:21.125036", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 9501, "ip_address": "151.49.75.88"}
+{"timestamp": "2026-05-12T01:55:23.129870", "service": "payment-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 3367, "ip_address": "153.157.142.134"}
+{"timestamp": "2026-05-12T01:55:25.134341", "service": "payment-service", "level": "WARNING", "message": "Slow API response", "user_id": 1977, "ip_address": "114.13.151.143"}
+{"timestamp": "2026-05-12T01:55:27.136542", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 9829, "ip_address": "173.113.38.155"}
+{"timestamp": "2026-05-12T01:55:29.140368", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 4765, "ip_address": "176.222.233.155"}
+{"timestamp": "2026-05-12T01:55:31.142891", "service": "payment-service", "level": "INFO", "message": "User authenticated", "user_id": 2943, "ip_address": "13.97.203.189"}
+{"timestamp": "2026-05-12T01:55:33.146478", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 4252, "ip_address": "177.118.147.113"}
+{"timestamp": "2026-05-12T01:55:35.149415", "service": "api-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3973, "ip_address": "75.44.23.126"}
+{"timestamp": "2026-05-12T01:55:37.152707", "service": "iot-gateway", "level": "INFO", "message": "Request processed successfully", "user_id": 6258, "ip_address": "63.137.20.141"}
+{"timestamp": "2026-05-12T01:55:39.158109", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 1248, "ip_address": "151.87.207.121"}
+{"timestamp": "2026-05-12T01:55:41.163036", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 8683, "ip_address": "86.243.159.203"}
+{"timestamp": "2026-05-12T01:55:43.165107", "service": "auth-service", "level": "INFO", "message": "Telemetry data received", "user_id": 3426, "ip_address": "203.182.221.32"}
+{"timestamp": "2026-05-12T01:55:45.167958", "service": "auth-service", "level": "ERROR", "message": "Kafka broker unavailable", "user_id": 2473, "ip_address": "175.1.227.207"}
+{"timestamp": "2026-05-12T01:55:47.170194", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 4871, "ip_address": "192.30.107.51"}
+{"timestamp": "2026-05-12T01:55:49.175044", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9473, "ip_address": "221.194.212.131"}
+{"timestamp": "2026-05-12T01:55:51.176859", "service": "payment-service", "level": "INFO", "message": "Request processed successfully", "user_id": 9567, "ip_address": "57.216.126.237"}
+{"timestamp": "2026-05-12T01:55:53.179122", "service": "iot-gateway", "level": "ERROR", "message": "Database timeout", "user_id": 8015, "ip_address": "100.195.254.3"}
+{"timestamp": "2026-05-12T01:55:55.181547", "service": "api-service", "level": "INFO", "message": "Request processed successfully", "user_id": 6317, "ip_address": "181.171.146.125"}
+{"timestamp": "2026-05-12T01:55:57.184261", "service": "api-service", "level": "INFO", "message": "User authenticated", "user_id": 3964, "ip_address": "31.141.75.249"}
+{"timestamp": "2026-05-12T01:55:59.185100", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 9256, "ip_address": "58.17.124.130"}
+{"timestamp": "2026-05-12T01:56:01.190569", "service": "iot-gateway", "level": "WARNING", "message": "Retrying database connection", "user_id": 4185, "ip_address": "32.176.26.248"}
+{"timestamp": "2026-05-12T01:56:03.194104", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 7122, "ip_address": "55.225.223.27"}
+{"timestamp": "2026-05-12T01:56:05.199922", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 1134, "ip_address": "213.105.206.152"}
+{"timestamp": "2026-05-12T01:56:07.202155", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 6466, "ip_address": "220.78.175.114"}
+{"timestamp": "2026-05-12T01:56:09.205597", "service": "auth-service", "level": "WARNING", "message": "Retrying database connection", "user_id": 8509, "ip_address": "72.192.134.234"}
+{"timestamp": "2026-05-12T01:56:11.207524", "service": "payment-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5367, "ip_address": "65.49.42.108"}
+{"timestamp": "2026-05-12T01:56:13.209341", "service": "auth-service", "level": "INFO", "message": "Request processed successfully", "user_id": 7545, "ip_address": "144.82.189.80"}
+{"timestamp": "2026-05-12T01:56:15.210131", "service": "api-service", "level": "ERROR", "message": "Database timeout", "user_id": 5604, "ip_address": "185.238.203.224"}
+{"timestamp": "2026-05-12T01:56:17.214334", "service": "iot-gateway", "level": "INFO", "message": "User authenticated", "user_id": 9314, "ip_address": "203.135.23.150"}
+{"timestamp": "2026-05-12T01:56:19.215385", "service": "payment-service", "level": "INFO", "message": "Telemetry data received", "user_id": 1880, "ip_address": "80.158.223.202"}
+{"timestamp": "2026-05-12T01:56:21.220841", "service": "auth-service", "level": "ERROR", "message": "Unhandled application exception", "user_id": 5829, "ip_address": "66.122.251.8"}
+{"timestamp": "2026-05-12T01:56:23.222228", "service": "auth-service", "level": "WARNING", "message": "Slow API response", "user_id": 5624, "ip_address": "168.239.138.16"}
