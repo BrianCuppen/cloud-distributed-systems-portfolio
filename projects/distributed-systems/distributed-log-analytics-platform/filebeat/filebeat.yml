@@ -1,0 +1,11 @@
+filebeat.inputs:
+  - type: filestream
+    enabled: true
+    paths:
+      - /var/log/app/application.log
+
+output.kafka:
+  hosts: ["kafka:9092"]
+  topic: "application-logs"
+
+logging.level: info
