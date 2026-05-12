@@ -45,7 +45,20 @@ while True:
         "level": level,
         "message": random.choice(messages[level]),
         "user_id": random.randint(1000, 9999),
-        "ip_address": fake.ipv4()
+        "ip_address": fake.ipv4(),
+        "response_time_ms": random.randint(20, 3000)
+
+        #second step
+        ,"status_code": random.choice([200, 201, 400, 401, 404, 500]),
+        "region": random.choice(["eu-west", "us-east", "asia-south"]),
+        "device_type": random.choice(["mobile", "desktop", "iot"]),
+        "endpoint": random.choice([
+            "/api/login",
+            "/api/payment",
+            "/api/telemetry",
+            "/api/orders"
+        ])
+        #
     }
 
     with open(log_file, "a") as f:

@@ -157,8 +157,36 @@ Some commands I thought were handy.
 
     or ```docker logs -f logstash```
 
-## Infrastructure
-## Setup & Deployment
+## Kibana Dashboard
+Next up we'll create dashboards and architecture diagrams.
+- in Kibana(http://localhost:5601), go to Management → Stack Management → Data Views. Create a view.
+- for instance name : application-logs Index pattern : application-logs*.
+- Then in discover you should see live logs, eg. timestamps if you selected that in the prev step.
+
+## Cool logs
+One way to make logs cooler and realistic is to add response times, status code, etc. 
+Basically by tracking more entries.
+
+- update [app.py](./services/log-generator/app.py). (uncomment the second step code)
+
+```code
+docker compose up --build -d
+```
+Note : we adjusted python code so we have to do this command ! (otherwise it will never go trough)
+### Adding a bunch of dashboards
+Now that we have setup more data, let's visualize it on dashboards.
+- check if Kibana sees the fields. Stack Management→ Data Views→ application-logs.
+
+- Analytics→ Visualize Library→ Create visualization→ Lens.
+- drag, Records to center. drag @timestamp to horizontal axis in the right menu. Look for a plus sign in the top bar, right next to the searchbar. that's to add a filter.
+- Filter : level  is  ERROR
+
+Now you have ERROR events over time.
+- save it, give it a name, put it in your library or existing dashboards.
+
 ## Screenshots
+Here are some examples that I made.
+
+## Setup & Deployment
 ## Lessons Learned
 ## Future Improvements
