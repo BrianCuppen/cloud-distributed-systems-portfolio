@@ -7,3 +7,12 @@ services:
 
     ports:
       - "8000:8000"
+
+  api-service:
+    build:
+      context: ./services/api-service
+
+    container_name: api-service
+
+    ports:
+      - "8001:8001"
